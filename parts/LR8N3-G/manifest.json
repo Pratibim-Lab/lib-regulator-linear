@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LR8N3-G:LR8N3-G",
+  "name": "LR8N3-G",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LR8N3-G.kicad_sym",
+  "description": "30mA 450V High-Voltage Linear Regulator (Adjustable), TO-92",
+  "datasheet": "http://www.supertex.com/pdf/datasheets/LR8.pdf",
+  "keywords": "High-Voltage Regulator Adjustable Positive",
+  "footprint": "Package_TO_SOT_THT:TO-92_Inline",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LR8N3-G/",
+  "part_path": "parts/LR8N3-G",
+  "symbol_file": "parts/LR8N3-G/LR8N3-G.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.177Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LD1086D2MTR:LD1086D2MTR",
+  "name": "LD1086D2MTR",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LD1086D2MTR.kicad_sym",
+  "description": "Positive, 1.5A 30V, Linear Regulator, Adjustable TO-263",
+  "datasheet": "https://www.st.com/resource/en/datasheet/ld1086.pdf",
+  "keywords": "Linear Regulator 1.5A Adjustable",
+  "footprint": "Package_TO_SOT_SMD:TO-263-3_TabPin2",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LD1086D2MTR/",
+  "part_path": "parts/LD1086D2MTR",
+  "symbol_file": "parts/LD1086D2MTR/LD1086D2MTR.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.961Z"
+}

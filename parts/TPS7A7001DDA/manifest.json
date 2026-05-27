@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS7A7001DDA:TPS7A7001DDA",
+  "name": "TPS7A7001DDA",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS7A7001DDA.kicad_sym",
+  "description": "2A, Low-Dropout Voltage Regulator, 1.425-6.5V Input, Adjustable Min 0.5V Output, PowerPad SO-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps7a7001.pdf",
+  "keywords": "ldo regulator voltage linear",
+  "footprint": "Package_SO:TI_SO-PowerPAD-8",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS7A7001DDA/",
+  "part_path": "parts/TPS7A7001DDA",
+  "symbol_file": "parts/TPS7A7001DDA/TPS7A7001DDA.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.676Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT1129-ADJ_TO220_TO263:LT1129-ADJ_TO220_TO263",
+  "name": "LT1129-ADJ_TO220_TO263",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT1129-ADJ_TO220_TO263.kicad_sym",
+  "description": "700mA Micropower Low Dropout Linear Regulator, adjustable output voltage, TO-220-5/TO-263-5",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/112935ff.pdf",
+  "keywords": "LDO Linear Regulator positive adjustable",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT1129-ADJ_TO220_TO263/",
+  "part_path": "parts/LT1129-ADJ_TO220_TO263",
+  "symbol_file": "parts/LT1129-ADJ_TO220_TO263/LT1129-ADJ_TO220_TO263.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.331Z"
+}

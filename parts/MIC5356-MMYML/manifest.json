@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MIC5356-MMYML:MIC5356-MMYML",
+  "name": "MIC5356-MMYML",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MIC5356-MMYML.kicad_sym",
+  "description": "Dual 500mA μCap Low Dropout Micropower Linear Regulator, 2.8V/2.8V, DFN-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/mic5355_6.pdf",
+  "keywords": "Dual LDO 500mA DFN-8",
+  "footprint": "Package_DFN_QFN:MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MIC5356-MMYML/",
+  "part_path": "parts/MIC5356-MMYML",
+  "symbol_file": "parts/MIC5356-MMYML/MIC5356-MMYML.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.772Z"
+}

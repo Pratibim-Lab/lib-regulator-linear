@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LM150_TO3:LM150_TO3",
+  "name": "LM150_TO3",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LM150_TO3.kicad_sym",
+  "description": "3A 33V Adjustable Linear Regulator, TO-3",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm350a.pdf",
+  "keywords": "Adjustable Voltage Regulator 3A Positive",
+  "footprint": "Package_TO_SOT_THT:TO-3",
+  "extends": "LM317_TO3",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LM150_TO3/",
+  "part_path": "parts/LM150_TO3",
+  "symbol_file": "parts/LM150_TO3/LM150_TO3.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.512Z"
+}

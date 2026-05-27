@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LD3985M28R_SOT23:LD3985M28R_SOT23",
+  "name": "LD3985M28R_SOT23",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LD3985M28R_SOT23.kicad_sym",
+  "description": "150mA Low Dropout Voltage Regulator, Fixed Output 2.8V, SOT-23-5",
+  "datasheet": "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00003395.pdf",
+  "keywords": "150mA LDO Regulator Fixed Positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "LD3985M122R_SOT23",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LD3985M28R_SOT23/",
+  "part_path": "parts/LD3985M28R_SOT23",
+  "symbol_file": "parts/LD3985M28R_SOT23/LD3985M28R_SOT23.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.150Z"
+}

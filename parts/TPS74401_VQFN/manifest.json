@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS74401_VQFN:TPS74401_VQFN",
+  "name": "TPS74401_VQFN",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS74401_VQFN.kicad_sym",
+  "description": "0.8 to 3.6V adjustable, 3.0-A, Ultra-LDO with Programmable Soft-Start",
+  "datasheet": "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=tps74401&fileType=pdf",
+  "keywords": "LDO Voltage Regulator",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS74401_VQFN/",
+  "part_path": "parts/TPS74401_VQFN",
+  "symbol_file": "parts/TPS74401_VQFN/TPS74401_VQFN.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.054Z"
+}

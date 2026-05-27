@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS72325DBV:TPS72325DBV",
+  "name": "TPS72325DBV",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS72325DBV.kicad_sym",
+  "description": "200-mA, Low-Noise, High-PSRR, Negative Output Low-Dropout Linear Regulator, Fixed Output -2.5 V, SOT-23-5",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps723.pdf",
+  "keywords": "",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS72325DBV/",
+  "part_path": "parts/TPS72325DBV",
+  "symbol_file": "parts/TPS72325DBV/TPS72325DBV.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.979Z"
+}

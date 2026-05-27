@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TLV76733DRVx:TLV76733DRVx",
+  "name": "TLV76733DRVx",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TLV76733DRVx.kicad_sym",
+  "description": "1A Precision Linear Voltage Regulator, with enable pin, Fixed Output 3.3V, WSON6",
+  "datasheet": "www.ti.com/lit/gpn/TLV767",
+  "keywords": "1A Precision Linear Voltage Regulator",
+  "footprint": "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias",
+  "extends": "TLV76750DRVx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TLV76733DRVx/",
+  "part_path": "parts/TLV76733DRVx",
+  "symbol_file": "parts/TLV76733DRVx/TLV76733DRVx.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.859Z"
+}

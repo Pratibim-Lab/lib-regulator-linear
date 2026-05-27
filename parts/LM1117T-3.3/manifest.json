@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LM1117T-3.3:LM1117T-3.3",
+  "name": "LM1117T-3.3",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LM1117T-3.3.kicad_sym",
+  "description": "800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm1117.pdf",
+  "keywords": "linear regulator ldo fixed positive",
+  "footprint": "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown",
+  "extends": "AP1117-15",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LM1117T-3.3/",
+  "part_path": "parts/LM1117T-3.3",
+  "symbol_file": "parts/LM1117T-3.3/LM1117T-3.3.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.492Z"
+}

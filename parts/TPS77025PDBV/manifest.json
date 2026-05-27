@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS77025PDBV:TPS77025PDBV",
+  "name": "TPS77025PDBV",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS77025PDBV.kicad_sym",
+  "description": "50-mA fixed LDO, 2.5V, active output discharge, 55dB@1MHz PSRR, 2.55..5.5Vin, 45mV dropout, SOT-23-5",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps770.pdf",
+  "keywords": "Single-Output power-supply-rejection-ration low-dropout-regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "TPS77012PDBV",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS77025PDBV/",
+  "part_path": "parts/TPS77025PDBV",
+  "symbol_file": "parts/TPS77025PDBV/TPS77025PDBV.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.135Z"
+}

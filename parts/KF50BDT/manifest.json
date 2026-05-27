@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/KF50BDT:KF50BDT",
+  "name": "KF50BDT",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/KF50BDT.kicad_sym",
+  "description": "Positive 500mA 20V Linear Regulator, Fixed Output 5V, TO-252 (D-PAK)",
+  "datasheet": "https://www.st.com/resource/en/datasheet/kfxx.pdf",
+  "keywords": "Voltage Regulator 500mA Positive",
+  "footprint": "Package_TO_SOT_SMD:TO-252-2",
+  "extends": "LM78M05_TO252",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/KF50BDT/",
+  "part_path": "parts/KF50BDT",
+  "symbol_file": "parts/KF50BDT/KF50BDT.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.775Z"
+}

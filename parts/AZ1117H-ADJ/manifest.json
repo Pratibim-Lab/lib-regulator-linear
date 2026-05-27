@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/AZ1117H-ADJ:AZ1117H-ADJ",
+  "name": "AZ1117H-ADJ",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/AZ1117H-ADJ.kicad_sym",
+  "description": "1A 20V Adjustable LDO Linear Regulator, SOT-223",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/products_inactive_data/AZ1117.pdf",
+  "keywords": "Adjustable Voltage Regulator 1A Positive LDO",
+  "footprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+  "extends": "LM317_SOT-223",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/AZ1117H-ADJ/",
+  "part_path": "parts/AZ1117H-ADJ",
+  "symbol_file": "parts/AZ1117H-ADJ/AZ1117H-ADJ.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.574Z"
+}

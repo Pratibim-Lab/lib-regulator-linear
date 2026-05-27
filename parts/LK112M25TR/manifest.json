@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LK112M25TR:LK112M25TR",
+  "name": "LK112M25TR",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LK112M25TR.kicad_sym",
+  "description": "Low noise and low drop voltage regulator with shutdown function, 150mA, Vout = 2.5V, SOT-23-5",
+  "datasheet": "https://www.st.com/resource/ja/datasheet/lk112.pdf",
+  "keywords": "LDO regulator voltage",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "LK112M15TR",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LK112M25TR/",
+  "part_path": "parts/LK112M25TR",
+  "symbol_file": "parts/LK112M25TR/LK112M25TR.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.381Z"
+}

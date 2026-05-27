@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TLV75510PDBV:TLV75510PDBV",
+  "name": "TLV75510PDBV",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TLV75510PDBV.kicad_sym",
+  "description": "500mA Low IQ Small Size Low Dropout Voltage Regulator, Fixed Output 1.0V, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tlv755p.pdf",
+  "keywords": "LDO Regulator Fixed Positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "TLV70012_SOT23-5",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TLV75510PDBV/",
+  "part_path": "parts/TLV75510PDBV",
+  "symbol_file": "parts/TLV75510PDBV/TLV75510PDBV.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.705Z"
+}

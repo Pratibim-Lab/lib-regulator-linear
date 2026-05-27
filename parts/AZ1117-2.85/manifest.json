@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/AZ1117-2.85:AZ1117-2.85",
+  "name": "AZ1117-2.85",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/AZ1117-2.85.kicad_sym",
+  "description": "1A 20V Fixed LDO Linear Regulator, 2.85V, SOT-89/SOT-223/TO-220/TO-252/TO-263",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/AZ1117.pdf",
+  "keywords": "Fixed Voltage Regulator 1A Positive LDO",
+  "footprint": "",
+  "extends": "AZ1117-1.2",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/AZ1117-2.85/",
+  "part_path": "parts/AZ1117-2.85",
+  "symbol_file": "parts/AZ1117-2.85/AZ1117-2.85.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.529Z"
+}

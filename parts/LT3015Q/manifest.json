@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT3015Q:LT3015Q",
+  "name": "LT3015Q",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT3015Q.kicad_sym",
+  "description": "1.5A, Adjustable, Low Noise, Negative Voltage Regulator, TO-263-5",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3015fb.pdf",
+  "keywords": "low noise voltage regulator",
+  "footprint": "Package_TO_SOT_SMD:TO-263-5_TabPin3",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT3015Q/",
+  "part_path": "parts/LT3015Q",
+  "symbol_file": "parts/LT3015Q/LT3015Q.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.606Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT1085-ADJ:LT1085-ADJ",
+  "name": "LT1085-ADJ",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT1085-ADJ.kicad_sym",
+  "description": "3.0A 25V LDO Linear Regulator, Adjustable Output, TO-220/TO-263",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/108345fh.pdf",
+  "keywords": "Voltage Regulator Adjustable 3.0A Positive LDO",
+  "footprint": "",
+  "extends": "LM1084-ADJ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT1085-ADJ/",
+  "part_path": "parts/LT1085-ADJ",
+  "symbol_file": "parts/LT1085-ADJ/LT1085-ADJ.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.263Z"
+}

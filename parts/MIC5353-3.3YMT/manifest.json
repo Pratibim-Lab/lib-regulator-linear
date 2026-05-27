@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MIC5353-3.3YMT:MIC5353-3.3YMT",
+  "name": "MIC5353-3.3YMT",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MIC5353-3.3YMT.kicad_sym",
+  "description": "High-performance, single-output,  ultra-low  LDO regulator",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/mic5353.pdf",
+  "keywords": "Single LDO",
+  "footprint": "Package_DFN_QFN:MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm",
+  "extends": "MIC5353-2.5YMT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MIC5353-3.3YMT/",
+  "part_path": "parts/MIC5353-3.3YMT",
+  "symbol_file": "parts/MIC5353-3.3YMT/MIC5353-3.3YMT.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.726Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/SPX2920T-5.0_TO263:SPX2920T-5.0_TO263",
+  "name": "SPX2920T-5.0_TO263",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/SPX2920T-5.0_TO263.kicad_sym",
+  "description": "400mA Low drop-out regulator, Fixed Output 5V, TO-263",
+  "datasheet": "http://www.zlgmcu.com/Sipex/LDO/PDF/spx2920.pdf",
+  "keywords": "REGULATOR LDO 5V",
+  "footprint": "Package_TO_SOT_SMD:TO-263-3_TabPin2",
+  "extends": "SPX2920T-3.3_TO263",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/SPX2920T-5.0_TO263/",
+  "part_path": "parts/SPX2920T-5.0_TO263",
+  "symbol_file": "parts/SPX2920T-5.0_TO263/SPX2920T-5.0_TO263.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.191Z"
+}

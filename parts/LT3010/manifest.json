@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT3010:LT3010",
+  "name": "LT3010",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT3010.kicad_sym",
+  "description": "50mA 3-80V Micropower Low Dropout Regulator, adjustable output, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/30105fe.pdf",
+  "keywords": "REGULATOR POSITIVE POWER LDO adjustable",
+  "footprint": "Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT3010/",
+  "part_path": "parts/LT3010",
+  "symbol_file": "parts/LT3010/LT3010.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.592Z"
+}

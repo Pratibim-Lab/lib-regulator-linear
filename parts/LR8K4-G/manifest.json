@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LR8K4-G:LR8K4-G",
+  "name": "LR8K4-G",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LR8K4-G.kicad_sym",
+  "description": "30mA 450V High-Voltage Linear Regulator (Adjustable), TO-252 (D-PAK)",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/20005399B.pdf",
+  "keywords": "High-Voltage Regulator Adjustable Positive",
+  "footprint": "Package_TO_SOT_SMD:TO-252-2",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LR8K4-G/",
+  "part_path": "parts/LR8K4-G",
+  "symbol_file": "parts/LR8K4-G/LR8K4-G.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.175Z"
+}

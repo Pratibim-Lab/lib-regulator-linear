@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS70248_HTSSOP20:TPS70248_HTSSOP20",
+  "name": "TPS70248_HTSSOP20",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS70248_HTSSOP20.kicad_sym",
+  "description": "3.3V 500mA/1.5V 250mA Dual Low Drop-out Regulator with Voltage Supervisor, PowerPAD TSSOP-20",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps702.pdf",
+  "keywords": "Dual 3.3V 1.5V LDO Regulator 500mA 250mA Voltage Supervisor",
+  "footprint": "Package_SO:HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_ThermalVias",
+  "extends": "TPS70245_HTSSOP20",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS70248_HTSSOP20/",
+  "part_path": "parts/TPS70248_HTSSOP20",
+  "symbol_file": "parts/TPS70248_HTSSOP20/TPS70248_HTSSOP20.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.891Z"
+}

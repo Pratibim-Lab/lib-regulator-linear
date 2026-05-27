@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/AP1117-15:AP1117-15",
+  "name": "AP1117-15",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/AP1117-15.kicad_sym",
+  "description": "1A Low Dropout regulator, positive, 1.5V fixed output, SOT-223",
+  "datasheet": "http://www.diodes.com/datasheets/AP1117.pdf",
+  "keywords": "linear regulator ldo fixed positive obsolete",
+  "footprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/AP1117-15/",
+  "part_path": "parts/AP1117-15",
+  "symbol_file": "parts/AP1117-15/AP1117-15.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:18.395Z"
+}

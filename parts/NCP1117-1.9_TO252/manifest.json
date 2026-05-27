@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/NCP1117-1.9_TO252:NCP1117-1.9_TO252",
+  "name": "NCP1117-1.9_TO252",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/NCP1117-1.9_TO252.kicad_sym",
+  "description": "1A Low drop-out regulator, Fixed Output 1.9V, TO-252 (DPAK)",
+  "datasheet": "http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF",
+  "keywords": "REGULATOR LDO 1.9V",
+  "footprint": "Package_TO_SOT_SMD:TO-252-2",
+  "extends": "NCP1117-12_TO252",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/NCP1117-1.9_TO252/",
+  "part_path": "parts/NCP1117-1.9_TO252",
+  "symbol_file": "parts/NCP1117-1.9_TO252/NCP1117-1.9_TO252.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.894Z"
+}

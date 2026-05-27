@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS79330-EP:TPS79330-EP",
+  "name": "TPS79330-EP",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS79330-EP.kicad_sym",
+  "description": "200mA UltraLow-Noise, High-Precision, Fast RF, Low Drop-out Voltage Regulator, Fixed Output 3.0V, SOT-23",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps79333-ep.pdf",
+  "keywords": "LDO Voltage Regulator 200mA",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "TPS79318-EP",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS79330-EP/",
+  "part_path": "parts/TPS79330-EP",
+  "symbol_file": "parts/TPS79330-EP/TPS79330-EP.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.562Z"
+}

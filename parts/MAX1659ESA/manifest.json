@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MAX1659ESA:MAX1659ESA",
+  "name": "MAX1659ESA",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MAX1659ESA.kicad_sym",
+  "description": "350mA Linear LDO Regulator, Fixed Output 5V, SO-8",
+  "datasheet": "http://datasheets.maximintegrated.com/en/ds/MAX1658-MAX1659.pdf",
+  "keywords": "Linear LDO Regulator 350mA 5V",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "MAX1658ESA",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MAX1659ESA/",
+  "part_path": "parts/MAX1659ESA",
+  "symbol_file": "parts/MAX1659ESA/MAX1659ESA.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.793Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LDK130PU32R_DFN6:LDK130PU32R_DFN6",
+  "name": "LDK130PU32R_DFN6",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LDK130PU32R_DFN6.kicad_sym",
+  "description": "300mA low dropout linear regulator, low quiescent current very, low noise, shutdown pin, fixed 3.2V positive output, DFN-6",
+  "datasheet": "http://www.st.com/content/ccc/resource/technical/document/datasheet/29/10/f7/87/2f/66/47/f4/DM00076097.pdf/files/DM00076097.pdf/jcr:content/translations/en.DM00076097.pdf",
+  "keywords": "linear regulator ldo fixed positive low noise low quienscent current",
+  "footprint": "Package_DFN_QFN:DFN-6_1.3x1.2mm_P0.4mm",
+  "extends": "LDK130PU08R_DFN6",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LDK130PU32R_DFN6/",
+  "part_path": "parts/LDK130PU32R_DFN6",
+  "symbol_file": "parts/LDK130PU32R_DFN6/LDK130PU32R_DFN6.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.249Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LM723_TO100:LM723_TO100",
+  "name": "LM723_TO100",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LM723_TO100.kicad_sym",
+  "description": "Linear Regulator (adjustable), TO-100",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm723.pdf",
+  "keywords": "POWER REGUL",
+  "footprint": "Package_TO_SOT_THT:TO-100-10",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LM723_TO100/",
+  "part_path": "parts/LM723_TO100",
+  "symbol_file": "parts/LM723_TO100/LM723_TO100.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.705Z"
+}

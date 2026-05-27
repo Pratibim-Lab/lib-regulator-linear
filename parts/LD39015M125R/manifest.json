@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LD39015M125R:LD39015M125R",
+  "name": "LD39015M125R",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LD39015M125R.kicad_sym",
+  "description": "150mA low quiescent current low noise voltage regulator, Fixed Output 1.25V, SOT-23-5",
+  "datasheet": "http://www.st.com/resource/en/datasheet/ld39015.pdf",
+  "keywords": "150mA LDO Regulator Fixed Positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "LD39015M08R",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LD39015M125R/",
+  "part_path": "parts/LD39015M125R",
+  "symbol_file": "parts/LD39015M125R/LD39015M125R.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.038Z"
+}

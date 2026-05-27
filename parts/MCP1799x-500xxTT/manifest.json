@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MCP1799x-500xxTT:MCP1799x-500xxTT",
+  "name": "MCP1799x-500xxTT",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MCP1799x-500xxTT.kicad_sym",
+  "description": "80 mA High-Voltage Automotive LDO, 5V output, SOT-23",
+  "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1799-Data-Sheet-20006248A.pdf",
+  "keywords": "regulator linear ldo",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "MCP1700x-300xxTT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MCP1799x-500xxTT/",
+  "part_path": "parts/MCP1799x-500xxTT",
+  "symbol_file": "parts/MCP1799x-500xxTT/MCP1799x-500xxTT.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.398Z"
+}

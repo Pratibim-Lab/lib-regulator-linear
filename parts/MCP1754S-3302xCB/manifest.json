@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MCP1754S-3302xCB:MCP1754S-3302xCB",
+  "name": "MCP1754S-3302xCB",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MCP1754S-3302xCB.kicad_sym",
+  "description": "Fixed 150mA Low Dropout Voltage Regulator, Positive, 3.3V output, SOT-23",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/20002276C.pdf",
+  "keywords": "Regulator LDO",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "MCP1754S-5002xCB",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MCP1754S-3302xCB/",
+  "part_path": "parts/MCP1754S-3302xCB",
+  "symbol_file": "parts/MCP1754S-3302xCB/MCP1754S-3302xCB.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.339Z"
+}

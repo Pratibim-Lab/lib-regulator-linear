@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LF80_TO220:LF80_TO220",
+  "name": "LF80_TO220",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LF80_TO220.kicad_sym",
+  "description": "Low-drop Voltage Regulator, Io up to 500mA, Fixed Vo 8.0V, TO-220",
+  "datasheet": "http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf",
+  "keywords": "LDO regulator voltage",
+  "footprint": "Package_TO_SOT_THT:TO-220-3_Vertical",
+  "extends": "LM7805_TO220",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LF80_TO220/",
+  "part_path": "parts/LF80_TO220",
+  "symbol_file": "parts/LF80_TO220/LF80_TO220.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.350Z"
+}

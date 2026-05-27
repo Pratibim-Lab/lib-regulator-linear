@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TLV76150DCY:TLV76150DCY",
+  "name": "TLV76150DCY",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TLV76150DCY.kicad_sym",
+  "description": "5.0V, 1A, Low Noise, High-PSRR LDO Regulator, 2.5V...16V input, SOT-223",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tlv761.pdf",
+  "keywords": "voltage fixed low-dropout",
+  "footprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+  "extends": "AP1117-15",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TLV76150DCY/",
+  "part_path": "parts/TLV76150DCY",
+  "symbol_file": "parts/TLV76150DCY/TLV76150DCY.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.842Z"
+}

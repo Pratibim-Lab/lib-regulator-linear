@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT1762:LT1762",
+  "name": "LT1762",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT1762.kicad_sym",
+  "description": "150mA, Adjustable, Low Noise, Micropower LDO Regulator, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/LT1762.pdf",
+  "keywords": "LDO ADJ",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "LT1962",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT1762/",
+  "part_path": "parts/LT1762",
+  "symbol_file": "parts/LT1762/LT1762.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.508Z"
+}

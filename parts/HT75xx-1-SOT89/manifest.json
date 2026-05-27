@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/HT75xx-1-SOT89:HT75xx-1-SOT89",
+  "name": "HT75xx-1-SOT89",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/HT75xx-1-SOT89.kicad_sym",
+  "description": "100mA Low Dropout Voltage Regulator, Fixed Output, SOT89",
+  "datasheet": "https://www.holtek.com/documents/10179/116711/HT75xx-1v250.pdf",
+  "keywords": "100mA LDO Regulator Fixed Positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/HT75xx-1-SOT89/",
+  "part_path": "parts/HT75xx-1-SOT89",
+  "symbol_file": "parts/HT75xx-1-SOT89/HT75xx-1-SOT89.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.712Z"
+}

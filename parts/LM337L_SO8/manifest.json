@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LM337L_SO8:LM337L_SO8",
+  "name": "LM337L_SO8",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LM337L_SO8.kicad_sym",
+  "description": "100mA 35V Adjustable Negative Linear Regulator, SO-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm337l.pdf",
+  "keywords": "Adjustable Negative Voltage Regulator 100mA",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LM337L_SO8/",
+  "part_path": "parts/LM337L_SO8",
+  "symbol_file": "parts/LM337L_SO8/LM337L_SO8.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.662Z"
+}

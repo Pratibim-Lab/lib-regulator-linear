@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT1587-3.6:LT1587-3.6",
+  "name": "LT1587-3.6",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT1587-3.6.kicad_sym",
+  "description": "Positive 3A 35V Low Dropout Fast Response Linear Regulator, Fixed Output 3.6V, TO-220/TO-263",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/158457a.pdf",
+  "keywords": "Voltage Regulator 3A Positive Fixed",
+  "footprint": "",
+  "extends": "LT1585-3.3",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT1587-3.6/",
+  "part_path": "parts/LT1587-3.6",
+  "symbol_file": "parts/LT1587-3.6/LT1587-3.6.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.433Z"
+}

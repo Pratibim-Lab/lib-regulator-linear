@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LD1086PUR:LD1086PUR",
+  "name": "LD1086PUR",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LD1086PUR.kicad_sym",
+  "description": "Positive, 1.5A 30V, Linear Regulator, Adjustable, DFN8",
+  "datasheet": "https://www.st.com/resource/en/datasheet/ld1086.pdf",
+  "keywords": "Linear Regulator 1.5A Adjustable",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_4x4mm_P0.8mm_EP2.3x3.24mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LD1086PUR/",
+  "part_path": "parts/LD1086PUR",
+  "symbol_file": "parts/LD1086PUR/LD1086PUR.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.990Z"
+}

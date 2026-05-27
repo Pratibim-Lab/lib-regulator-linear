@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LP3963-2.5:LP3963-2.5",
+  "name": "LP3963-2.5",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LP3963-2.5.kicad_sym",
+  "description": "3A Fast Ultra Low Dropout Linear Regulator, 2.5V output voltage, TO-220-5/TO-263-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lp3966.pdf",
+  "keywords": "LDO Linear Regulator",
+  "footprint": "",
+  "extends": "LP3963-1.8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LP3963-2.5/",
+  "part_path": "parts/LP3963-2.5",
+  "symbol_file": "parts/LP3963-2.5/LP3963-2.5.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.963Z"
+}

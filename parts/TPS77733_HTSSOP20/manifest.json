@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS77733_HTSSOP20:TPS77733_HTSSOP20",
+  "name": "TPS77733_HTSSOP20",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS77733_HTSSOP20.kicad_sym",
+  "description": "750mA Fast-Transient Low Dropout Voltage Regulator, Fixed Output 3.3V, HTSSOP20",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps777.pdf",
+  "keywords": "750mA LDO Regulator Fixed Positive",
+  "footprint": "Package_SO:HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_ThermalVias",
+  "extends": "TPS77715_HTSSOP20",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS77733_HTSSOP20/",
+  "part_path": "parts/TPS77733_HTSSOP20",
+  "symbol_file": "parts/TPS77733_HTSSOP20/TPS77733_HTSSOP20.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.444Z"
+}

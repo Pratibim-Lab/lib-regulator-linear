@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LM79L05_TO92:LM79L05_TO92",
+  "name": "LM79L05_TO92",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LM79L05_TO92.kicad_sym",
+  "description": "3-Terminal Negative Regulator, -5V, TO-92",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm79l.pdf",
+  "keywords": "negative regulatpr",
+  "footprint": "Package_TO_SOT_THT:TO-92_Inline",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LM79L05_TO92/",
+  "part_path": "parts/LM79L05_TO92",
+  "symbol_file": "parts/LM79L05_TO92/LM79L05_TO92.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.797Z"
+}

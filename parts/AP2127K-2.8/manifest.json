@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/AP2127K-2.8:AP2127K-2.8",
+  "name": "AP2127K-2.8",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/AP2127K-2.8.kicad_sym",
+  "description": "300mA low dropout linear regulator, shutdown pin, 2.5V-6V input voltage, 2.8V fixed positive output, SOT-23-5",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/AP2127.pdf",
+  "keywords": "linear regulator ldo fixed positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "AP2204K-1.5",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/AP2127K-2.8/",
+  "part_path": "parts/AP2127K-2.8",
+  "symbol_file": "parts/AP2127K-2.8/AP2127K-2.8.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:18.484Z"
+}

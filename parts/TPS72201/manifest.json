@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS72201:TPS72201",
+  "name": "TPS72201",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS72201.kicad_sym",
+  "description": "Low input voltage 50mA LDO variable output voltage, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps722.pdf",
+  "keywords": "linear low dropout Regulator adjustable",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS72201/",
+  "part_path": "parts/TPS72201",
+  "symbol_file": "parts/TPS72201/TPS72201.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.962Z"
+}

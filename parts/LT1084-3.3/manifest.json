@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT1084-3.3:LT1084-3.3",
+  "name": "LT1084-3.3",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT1084-3.3.kicad_sym",
+  "description": "5.0A 20V LDO Linear Regulator, Fixed Output 3.3V, TO-220/TO-263",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1083ffe.pdf",
+  "keywords": "Voltage Regulator Fixed 5.0A Positive LDO",
+  "footprint": "",
+  "extends": "LM1084-3.3",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT1084-3.3/",
+  "part_path": "parts/LT1084-3.3",
+  "symbol_file": "parts/LT1084-3.3/LT1084-3.3.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.228Z"
+}

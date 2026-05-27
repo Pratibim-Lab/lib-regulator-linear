@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/SPX3819M5-L:SPX3819M5-L",
+  "name": "SPX3819M5-L",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/SPX3819M5-L.kicad_sym",
+  "description": "500mA Low drop-out regulator, Adjustable, SOT-23-5",
+  "datasheet": "https://www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819",
+  "keywords": "REGULATOR LDO ADJ",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MIC5205YM5",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/SPX3819M5-L/",
+  "part_path": "parts/SPX3819M5-L",
+  "symbol_file": "parts/SPX3819M5-L/SPX3819M5-L.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.220Z"
+}

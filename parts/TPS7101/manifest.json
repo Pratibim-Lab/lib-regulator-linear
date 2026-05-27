@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS7101:TPS7101",
+  "name": "TPS7101",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS7101.kicad_sym",
+  "description": "500mA Adjustable 1.2-9.75V Low Drop-out Voltage Regulator, SO-8/DIP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps71.pdf",
+  "keywords": "LDO Voltage Regulator 500mA Adjustable",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS7101/",
+  "part_path": "parts/TPS7101",
+  "symbol_file": "parts/TPS7101/TPS7101.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.927Z"
+}

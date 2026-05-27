@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TLV73311PDBV:TLV73311PDBV",
+  "name": "TLV73311PDBV",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TLV73311PDBV.kicad_sym",
+  "description": "300mA Capacitor-Free Low Dropout Voltage Regulator, Fixed Output 1.1V, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tlv733p.pdf",
+  "keywords": "300mA LDO Regulator Fixed Positive Capacitor-Free",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "LD39015M08R",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TLV73311PDBV/",
+  "part_path": "parts/TLV73311PDBV",
+  "symbol_file": "parts/TLV73311PDBV/TLV73311PDBV.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.639Z"
+}

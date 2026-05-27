@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/L78L06_SO8:L78L06_SO8",
+  "name": "L78L06_SO8",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/L78L06_SO8.kicad_sym",
+  "description": "Positive 100mA 30V Linear Regulator, Fixed Output 6V, SO-8",
+  "datasheet": "http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf",
+  "keywords": "Voltage Regulator 100mA Positive",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "MC78L05_SO8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/L78L06_SO8/",
+  "part_path": "parts/L78L06_SO8",
+  "symbol_file": "parts/L78L06_SO8/L78L06_SO8.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.812Z"
+}

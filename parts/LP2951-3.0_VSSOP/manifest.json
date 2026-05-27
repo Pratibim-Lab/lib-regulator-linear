@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LP2951-3.0_VSSOP:LP2951-3.0_VSSOP",
+  "name": "LP2951-3.0_VSSOP",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LP2951-3.0_VSSOP.kicad_sym",
+  "description": "Micropower Voltage Regulators with Shutdown, 100mA, Fixed Output 3.0V, LDO, VSSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lp2951.pdf",
+  "keywords": "Micropower Voltage Regulators with Shutdown",
+  "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LP2951-3.0_VSSOP/",
+  "part_path": "parts/LP2951-3.0_VSSOP",
+  "symbol_file": "parts/LP2951-3.0_VSSOP/LP2951-3.0_VSSOP.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.866Z"
+}

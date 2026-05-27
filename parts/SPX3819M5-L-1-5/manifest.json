@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/SPX3819M5-L-1-5:SPX3819M5-L-1-5",
+  "name": "SPX3819M5-L-1-5",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/SPX3819M5-L-1-5.kicad_sym",
+  "description": "500mA Low drop-out regulator, Fixed Output 1.5V, SOT-23-5",
+  "datasheet": "https://www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819",
+  "keywords": "REGULATOR LDO 1.5V",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "AP131-15",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/SPX3819M5-L-1-5/",
+  "part_path": "parts/SPX3819M5-L-1-5",
+  "symbol_file": "parts/SPX3819M5-L-1-5/SPX3819M5-L-1-5.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.202Z"
+}

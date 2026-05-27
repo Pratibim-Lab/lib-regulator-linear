@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT1129-3.3_SOT223:LT1129-3.3_SOT223",
+  "name": "LT1129-3.3_SOT223",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT1129-3.3_SOT223.kicad_sym",
+  "description": "700mA Micropower Low drop-out regulator, Fixed Output 3.3V, SOT-223",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/112935ff.pdf",
+  "keywords": "REGULATOR LDO fixed positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+  "extends": "SPX2920M3-3.3_SOT223",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT1129-3.3_SOT223/",
+  "part_path": "parts/LT1129-3.3_SOT223",
+  "symbol_file": "parts/LT1129-3.3_SOT223/LT1129-3.3_SOT223.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.314Z"
+}

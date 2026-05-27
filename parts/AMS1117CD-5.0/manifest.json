@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/AMS1117CD-5.0:AMS1117CD-5.0",
+  "name": "AMS1117CD-5.0",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/AMS1117CD-5.0.kicad_sym",
+  "description": "1A Low Dropout regulator, positive, 5.0V fixed output, TO-252",
+  "datasheet": "http://www.advanced-monolithic.com/pdf/ds1117.pdf",
+  "keywords": "linear regulator ldo fixed positive",
+  "footprint": "Package_TO_SOT_SMD:TO-252-3_TabPin2",
+  "extends": "AMS1117CD-1.5",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/AMS1117CD-5.0/",
+  "part_path": "parts/AMS1117CD-5.0",
+  "symbol_file": "parts/AMS1117CD-5.0/AMS1117CD-5.0.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:18.379Z"
+}

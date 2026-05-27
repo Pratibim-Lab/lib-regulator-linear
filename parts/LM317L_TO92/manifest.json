@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LM317L_TO92:LM317L_TO92",
+  "name": "LM317L_TO92",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LM317L_TO92.kicad_sym",
+  "description": "100mA 35V Adjustable Linear Regulator, TO-92",
+  "datasheet": "http://www.ti.com/lit/ds/snvs775k/snvs775k.pdf",
+  "keywords": "Adjustable Voltage Regulator 100mA Positive",
+  "footprint": "Package_TO_SOT_THT:TO-92_Inline",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LM317L_TO92/",
+  "part_path": "parts/LM317L_TO92",
+  "symbol_file": "parts/LM317L_TO92/LM317L_TO92.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.616Z"
+}

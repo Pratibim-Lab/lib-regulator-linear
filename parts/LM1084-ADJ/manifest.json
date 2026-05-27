@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LM1084-ADJ:LM1084-ADJ",
+  "name": "LM1084-ADJ",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LM1084-ADJ.kicad_sym",
+  "description": "5A 29V Adjustable Linear Regulator, TO-220 / TO-263 (D2-PAK)",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm1084.pdf",
+  "keywords": "Adjustable Voltage Regulator 5A Positive",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LM1084-ADJ/",
+  "part_path": "parts/LM1084-ADJ",
+  "symbol_file": "parts/LM1084-ADJ/LM1084-ADJ.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.421Z"
+}

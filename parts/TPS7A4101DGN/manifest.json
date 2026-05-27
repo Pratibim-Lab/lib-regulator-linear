@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS7A4101DGN:TPS7A4101DGN",
+  "name": "TPS7A4101DGN",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS7A4101DGN.kicad_sym",
+  "description": "High voltage low-dropout linear regulator, 7V to 50 VIn, 1.175V to 48V output, 50mA, MSOP-8-EP",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps7a4101.pdf",
+  "keywords": "LDO",
+  "footprint": "Package_SO:Texas_DGN0008B_VSSOP-8-1EP_3x3mm_P0.65mm_EP2x3mm_Mask1.88x1.98mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS7A4101DGN/",
+  "part_path": "parts/TPS7A4101DGN",
+  "symbol_file": "parts/TPS7A4101DGN/TPS7A4101DGN.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.661Z"
+}

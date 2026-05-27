@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MAX5093AATE:MAX5093AATE",
+  "name": "MAX5093AATE",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MAX5093AATE.kicad_sym",
+  "description": "4V to 72V Input LDOs with Boost Preregulator, 250mA Output, 3.3V Preset Vout, TQFN-16",
+  "datasheet": "http://datasheets.maximintegrated.com/en/ds/MAX5092-MAX5093.pdf",
+  "keywords": "High Voltage 72V Input LDO Boost Preregulator 250mA 3.3V",
+  "footprint": "Package_DFN_QFN:QFN-16-1EP_5x5mm_P0.8mm_EP2.7x2.7mm",
+  "extends": "MAX5092AATE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MAX5093AATE/",
+  "part_path": "parts/MAX5093AATE",
+  "symbol_file": "parts/MAX5093AATE/MAX5093AATE.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.812Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MIC5365-1.8YD5:MIC5365-1.8YD5",
+  "name": "MIC5365-1.8YD5",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MIC5365-1.8YD5.kicad_sym",
+  "description": "150mA Low-dropout Voltage Regulator, Vout 1.8V, Vin up to 5.5V, TSOT-23-5",
+  "datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MIC5365-6-High-Performance-Single-150mA-LDO-DS20006605A.pdf",
+  "keywords": "Micrel LDO voltage regulator",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-5",
+  "extends": "MIC5365-3.3YD5",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MIC5365-1.8YD5/",
+  "part_path": "parts/MIC5365-1.8YD5",
+  "symbol_file": "parts/MIC5365-1.8YD5/MIC5365-1.8YD5.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.810Z"
+}

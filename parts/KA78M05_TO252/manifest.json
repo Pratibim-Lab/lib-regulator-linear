@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/KA78M05_TO252:KA78M05_TO252",
+  "name": "KA78M05_TO252",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/KA78M05_TO252.kicad_sym",
+  "description": "Positive 500mA 35V Linear Regulator, Fixed Output 5V, TO-252 (D-PAK)",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/MC78M00-D.PDF",
+  "keywords": "Voltage Regulator 500mA Positive",
+  "footprint": "Package_TO_SOT_SMD:TO-252-2",
+  "extends": "LM78M05_TO252",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/KA78M05_TO252/",
+  "part_path": "parts/KA78M05_TO252",
+  "symbol_file": "parts/KA78M05_TO252/KA78M05_TO252.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.758Z"
+}

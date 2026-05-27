@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS76950:TPS76950",
+  "name": "TPS76950",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS76950.kicad_sym",
+  "description": "Ultra Low Power 100mA Low Drop Out Regulator 5.0V, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps769.pdf",
+  "keywords": "Ultra Low Power Fixed LDO 100mA 5V",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "TPS76912",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS76950/",
+  "part_path": "parts/TPS76950",
+  "symbol_file": "parts/TPS76950/TPS76950.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.126Z"
+}

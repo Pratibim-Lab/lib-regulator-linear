@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/L79L08_SO8:L79L08_SO8",
+  "name": "L79L08_SO8",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/L79L08_SO8.kicad_sym",
+  "description": "Negative 100mA -30V Linear Regulator, Fixed Output -5V, SO-8",
+  "datasheet": "http://www.farnell.com/datasheets/1827870.pdf",
+  "keywords": "Voltage Regulator 100mA Negative",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "MC79L05_SO8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/L79L08_SO8/",
+  "part_path": "parts/L79L08_SO8",
+  "symbol_file": "parts/L79L08_SO8/L79L08_SO8.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.935Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LP38512TJ-ADJ:LP38512TJ-ADJ",
+  "name": "LP38512TJ-ADJ",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LP38512TJ-ADJ.kicad_sym",
+  "description": "1.5A Fast-Transient Response Low-Dropout Linear Voltage Regulator with Error Flag, Adjustable Output, NDQ",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lp38512-adj.pdf",
+  "keywords": "LDO Linear Regulator",
+  "footprint": "Package_TO_SOT_SMD:Texas_NDQ",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LP38512TJ-ADJ/",
+  "part_path": "parts/LP38512TJ-ADJ",
+  "symbol_file": "parts/LP38512TJ-ADJ/LP38512TJ-ADJ.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.928Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LP5907MFX-3.2:LP5907MFX-3.2",
+  "name": "LP5907MFX-3.2",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LP5907MFX-3.2.kicad_sym",
+  "description": "250-mA Ultra-Low-Noise Low-IQ LDO, 3.2V, SOT-23",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lp5907.pdf",
+  "keywords": "Single Output LDO Low-Noise",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "LP5907MFX-1.2",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LP5907MFX-3.2/",
+  "part_path": "parts/LP5907MFX-3.2",
+  "symbol_file": "parts/LP5907MFX-3.2/LP5907MFX-3.2.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.134Z"
+}

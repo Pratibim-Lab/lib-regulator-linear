@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/SPX2920U-3.3_TO220:SPX2920U-3.3_TO220",
+  "name": "SPX2920U-3.3_TO220",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/SPX2920U-3.3_TO220.kicad_sym",
+  "description": "400mA Low drop-out regulator, Fixed Output 3.3V, TO-220",
+  "datasheet": "http://www.zlgmcu.com/Sipex/LDO/PDF/spx2920.pdf",
+  "keywords": "REGULATOR LDO 3.3V",
+  "footprint": "Package_TO_SOT_THT:TO-220-3_Vertical",
+  "extends": "LM7805_TO220",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/SPX2920U-3.3_TO220/",
+  "part_path": "parts/SPX2920U-3.3_TO220",
+  "symbol_file": "parts/SPX2920U-3.3_TO220/SPX2920U-3.3_TO220.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.194Z"
+}

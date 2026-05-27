@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MCP1703Ax-150xxTT:MCP1703Ax-150xxTT",
+  "name": "MCP1703Ax-150xxTT",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MCP1703Ax-150xxTT.kicad_sym",
+  "description": "Low Quiescent Current LDO Regulator, 1.5V, 250mA, Vin<=16V, SOT-23",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/20005122B.pdf",
+  "keywords": "REGULATOR LDO",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "MCP1703Ax-330xxTT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MCP1703Ax-150xxTT/",
+  "part_path": "parts/MCP1703Ax-150xxTT",
+  "symbol_file": "parts/MCP1703Ax-150xxTT/MCP1703Ax-150xxTT.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.226Z"
+}

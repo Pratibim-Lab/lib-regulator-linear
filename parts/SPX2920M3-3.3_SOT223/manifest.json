@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/SPX2920M3-3.3_SOT223:SPX2920M3-3.3_SOT223",
+  "name": "SPX2920M3-3.3_SOT223",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/SPX2920M3-3.3_SOT223.kicad_sym",
+  "description": "400mA Low drop-out regulator, Fixed Output 3.3V, SOT-223",
+  "datasheet": "http://www.zlgmcu.com/Sipex/LDO/PDF/spx2920.pdf",
+  "keywords": "REGULATOR LDO 3.3V",
+  "footprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/SPX2920M3-3.3_SOT223/",
+  "part_path": "parts/SPX2920M3-3.3_SOT223",
+  "symbol_file": "parts/SPX2920M3-3.3_SOT223/SPX2920M3-3.3_SOT223.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.178Z"
+}

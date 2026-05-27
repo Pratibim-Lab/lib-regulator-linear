@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MC78L12_SOT89:MC78L12_SOT89",
+  "name": "MC78L12_SOT89",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MC78L12_SOT89.kicad_sym",
+  "description": "Positive 100mA 30V Linear Regulator, Fixed Output 12V, SOT-89",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/MC78L00A-D.PDF",
+  "keywords": "Voltage Regulator 100mA Positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "MC78L05_SOT89",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MC78L12_SOT89/",
+  "part_path": "parts/MC78L12_SOT89",
+  "symbol_file": "parts/MC78L12_SOT89/MC78L12_SOT89.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.907Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TLV7113318DDSE:TLV7113318DDSE",
+  "name": "TLV7113318DDSE",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TLV7113318DDSE.kicad_sym",
+  "description": "Dual, 200mA, Low-Iq Low-Dropout Regulator for Portable Devices, SON-6",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tlv711.pdf",
+  "keywords": "dual LDO",
+  "footprint": "Package_SON:WSON-6_1.5x1.5mm_P0.5mm",
+  "extends": "TLV71x_WSON-6",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TLV7113318DDSE/",
+  "part_path": "parts/TLV7113318DDSE",
+  "symbol_file": "parts/TLV7113318DDSE/TLV7113318DDSE.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.567Z"
+}

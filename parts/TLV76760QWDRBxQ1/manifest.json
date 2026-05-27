@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TLV76760QWDRBxQ1:TLV76760QWDRBxQ1",
+  "name": "TLV76760QWDRBxQ1",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TLV76760QWDRBxQ1.kicad_sym",
+  "description": "1A, 16V Precision Linear Voltage Regulator, with enable pin, Fixed Output 6.0V, VSON-8",
+  "datasheet": "www.ti.com/lit/gpn/TLV767-q1",
+  "keywords": "1A 16V Precision Linear Voltage Regulator",
+  "footprint": "Package_SON:VSON-8-1EP_3x3mm_P0.65mm_EP1.65x2.4mm",
+  "extends": "TLV76733QWDRBxQ1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TLV76760QWDRBxQ1/",
+  "part_path": "parts/TLV76760QWDRBxQ1",
+  "symbol_file": "parts/TLV76760QWDRBxQ1/TLV76760QWDRBxQ1.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.870Z"
+}

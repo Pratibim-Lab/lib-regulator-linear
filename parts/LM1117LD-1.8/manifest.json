@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LM1117LD-1.8:LM1117LD-1.8",
+  "name": "LM1117LD-1.8",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LM1117LD-1.8.kicad_sym",
+  "description": "800mA Low-Dropout Linear Regulator, 1.8V fixed output, WSON-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm1117.pdf",
+  "keywords": "linear regulator ldo fixed positive",
+  "footprint": "Package_SON:WSON-8-1EP_4x4mm_P0.8mm_EP2.2x3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LM1117LD-1.8/",
+  "part_path": "parts/LM1117LD-1.8",
+  "symbol_file": "parts/LM1117LD-1.8/LM1117LD-1.8.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.455Z"
+}

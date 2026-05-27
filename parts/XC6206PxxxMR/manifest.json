@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/XC6206PxxxMR:XC6206PxxxMR",
+  "name": "XC6206PxxxMR",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/XC6206PxxxMR.kicad_sym",
+  "description": "Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23",
+  "datasheet": "https://www.torexsemi.com/file/xc6206/XC6206.pdf",
+  "keywords": "Torex LDO Voltage Regulator Fixed Positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-3",
+  "extends": "APE8865N-12-HF-3",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/XC6206PxxxMR/",
+  "part_path": "parts/XC6206PxxxMR",
+  "symbol_file": "parts/XC6206PxxxMR/XC6206PxxxMR.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.775Z"
+}

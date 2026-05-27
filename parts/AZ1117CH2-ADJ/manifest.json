@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/AZ1117CH2-ADJ:AZ1117CH2-ADJ",
+  "name": "AZ1117CH2-ADJ",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/AZ1117CH2-ADJ.kicad_sym",
+  "description": "1A Adjustable LDO Linear Regulator, 15V Max Input, SOT-223",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/AZ1117C.pdf",
+  "keywords": "low-dropout positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+  "extends": "LM317_TO39",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/AZ1117CH2-ADJ/",
+  "part_path": "parts/AZ1117CH2-ADJ",
+  "symbol_file": "parts/AZ1117CH2-ADJ/AZ1117CH2-ADJ.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.570Z"
+}

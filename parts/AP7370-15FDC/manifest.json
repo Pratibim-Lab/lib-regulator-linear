@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/AP7370-15FDC:AP7370-15FDC",
+  "name": "AP7370-15FDC",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/AP7370-15FDC.kicad_sym",
+  "description": "200mA Low-Dropout Linear Regulator, 1.5V fixed output, DFN-6",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/AP7370.pdf",
+  "keywords": "linear regulator ldo fixed positive",
+  "footprint": "Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.65mm_EP1.01x1.7mm",
+  "extends": "AP7370-12FDC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/AP7370-15FDC/",
+  "part_path": "parts/AP7370-15FDC",
+  "symbol_file": "parts/AP7370-15FDC/AP7370-15FDC.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:18.695Z"
+}

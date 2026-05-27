@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LTC3026-1:LTC3026-1",
+  "name": "LTC3026-1",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LTC3026-1.kicad_sym",
+  "description": "1.14V-5.5V, 1.5A Low Input Voltage VLDO Linear Regulator",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/30261f.pdf",
+  "keywords": "regulator LDO positive adjustable",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LTC3026-1/",
+  "part_path": "parts/LTC3026-1",
+  "symbol_file": "parts/LTC3026-1/LTC3026-1.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.784Z"
+}

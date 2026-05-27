@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MCP1802x-xx02xOT:MCP1802x-xx02xOT",
+  "name": "MCP1802x-xx02xOT",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MCP1802x-xx02xOT.kicad_sym",
+  "description": "150mA, Tiny CMOS LDO With Shutdown, Fixed Voltage, SOT-23-5",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/22053C.pdf",
+  "keywords": "LDO Linear Voltage Regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "TC1017-xCT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MCP1802x-xx02xOT/",
+  "part_path": "parts/MCP1802x-xx02xOT",
+  "symbol_file": "parts/MCP1802x-xx02xOT/MCP1802x-xx02xOT.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.400Z"
+}

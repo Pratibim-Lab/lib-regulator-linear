@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/ADP7142ARDZ-1.8:ADP7142ARDZ-1.8",
+  "name": "ADP7142ARDZ-1.8",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/ADP7142ARDZ-1.8.kicad_sym",
+  "description": "200mA, Low Noise, CMOS Low Dropout Regulator, Positive, 1.8V Fixed Output, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7142.pdf",
+  "keywords": "linear regulator ldo fixed positive",
+  "footprint": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm",
+  "extends": "ADP7142ARDZ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/ADP7142ARDZ-1.8/",
+  "part_path": "parts/ADP7142ARDZ-1.8",
+  "symbol_file": "parts/ADP7142ARDZ-1.8/ADP7142ARDZ-1.8.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:18.325Z"
+}

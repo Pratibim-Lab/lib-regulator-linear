@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/AP2204MP-ADJ:AP2204MP-ADJ",
+  "name": "AP2204MP-ADJ",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/AP2204MP-ADJ.kicad_sym",
+  "description": "150mA low dropout adjustable linear regulator, wide input voltage range, PSOP-8 package",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/AP2204.pdf",
+  "keywords": "linear regulator ldo adjustable positive",
+  "footprint": "Package_SO:Diodes_PSOP-8",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/AP2204MP-ADJ/",
+  "part_path": "parts/AP2204MP-ADJ",
+  "symbol_file": "parts/AP2204MP-ADJ/AP2204MP-ADJ.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:18.595Z"
+}

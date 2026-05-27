@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/AP7384-28V:AP7384-28V",
+  "name": "AP7384-28V",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/AP7384-28V.kicad_sym",
+  "description": "50mA Low Dropout Voltage Regulator, Fixed Output 2.8V, Wide Input Voltage Range 40V, TO-92",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/AP7384.pdf",
+  "keywords": "50mA LDO Regulator Fixed Positive",
+  "footprint": "Package_TO_SOT_THT:TO-92_Inline_Wide",
+  "extends": "APE8865NL-12-HF-3",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/AP7384-28V/",
+  "part_path": "parts/AP7384-28V",
+  "symbol_file": "parts/AP7384-28V/AP7384-28V.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:18.740Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LD1086V-DG:LD1086V-DG",
+  "name": "LD1086V-DG",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LD1086V-DG.kicad_sym",
+  "description": "Positive, 1.5A 30V, Linear Regulator, Adjustable, TO-220",
+  "datasheet": "https://www.st.com/resource/en/datasheet/ld1086.pdf",
+  "keywords": "Linear Regulator 1.5A Adjustable",
+  "footprint": "Package_TO_SOT_THT:TO-220-3_Vertical",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LD1086V-DG/",
+  "part_path": "parts/LD1086V-DG",
+  "symbol_file": "parts/LD1086V-DG/LD1086V-DG.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.994Z"
+}

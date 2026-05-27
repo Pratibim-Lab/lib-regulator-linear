@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT3032-15:LT3032-15",
+  "name": "LT3032-15",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT3032-15.kicad_sym",
+  "description": "150mA, Dual Low Dropout Linear Regulator, Positive/Negative Low Noise, 15V Output, DFN-14",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3032ff.pdf",
+  "keywords": "LDO low noise",
+  "footprint": "Package_DFN_QFN:Linear_DE14MA",
+  "extends": "LT3032-5",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT3032-15/",
+  "part_path": "parts/LT3032-15",
+  "symbol_file": "parts/LT3032-15/LT3032-15.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.702Z"
+}

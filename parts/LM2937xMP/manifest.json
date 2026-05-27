@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LM2937xMP:LM2937xMP",
+  "name": "LM2937xMP",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LM2937xMP.kicad_sym",
+  "description": "500-mA Low Dropout Regulator, SOT-223",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm2937.pdf",
+  "keywords": "Voltage Regulator Low Dropuout Positive LDO",
+  "footprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+  "extends": "SPX2920M3-3.3_SOT223",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LM2937xMP/",
+  "part_path": "parts/LM2937xMP",
+  "symbol_file": "parts/LM2937xMP/LM2937xMP.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.551Z"
+}

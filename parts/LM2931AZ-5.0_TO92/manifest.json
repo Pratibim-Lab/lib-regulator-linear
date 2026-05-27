@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LM2931AZ-5.0_TO92:LM2931AZ-5.0_TO92",
+  "name": "LM2931AZ-5.0_TO92",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LM2931AZ-5.0_TO92.kicad_sym",
+  "description": "100mA Low drop-out regulator, Fixed Output 5V, TO-92",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm2931-n.pdf",
+  "keywords": "REGULATOR LDO 5V",
+  "footprint": "Package_TO_SOT_THT:TO-92_Inline",
+  "extends": "MC78L05_TO92",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LM2931AZ-5.0_TO92/",
+  "part_path": "parts/LM2931AZ-5.0_TO92",
+  "symbol_file": "parts/LM2931AZ-5.0_TO92/LM2931AZ-5.0_TO92.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.529Z"
+}

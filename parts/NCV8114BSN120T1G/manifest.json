@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/NCV8114BSN120T1G:NCV8114BSN120T1G",
+  "name": "NCV8114BSN120T1G",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/NCV8114BSN120T1G.kicad_sym",
+  "description": "300mA, Low Noise, Linear Regulator without output active discharge function, 1.7-5.5V input voltage range, 1.2V fixed positive output, TSOT-23-5",
+  "datasheet": "https://ru.mouser.com/datasheet/2/308/NCV8114-D-1107616.pdf",
+  "keywords": "linear regulator ldo fixed positive",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-5",
+  "extends": "NCV8114ASN120T1G",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/NCV8114BSN120T1G/",
+  "part_path": "parts/NCV8114BSN120T1G",
+  "symbol_file": "parts/NCV8114BSN120T1G/NCV8114BSN120T1G.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.132Z"
+}

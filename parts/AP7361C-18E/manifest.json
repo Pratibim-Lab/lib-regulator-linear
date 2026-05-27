@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/AP7361C-18E:AP7361C-18E",
+  "name": "AP7361C-18E",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/AP7361C-18E.kicad_sym",
+  "description": "1A Low Dropout regulator, positive, 1.8V fixed output, SOT-223",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/AP7361C.pdf",
+  "keywords": "linear regulator ldo fixed positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+  "extends": "SPX2920M3-3.3_SOT223",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/AP7361C-18E/",
+  "part_path": "parts/AP7361C-18E",
+  "symbol_file": "parts/AP7361C-18E/AP7361C-18E.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:18.670Z"
+}

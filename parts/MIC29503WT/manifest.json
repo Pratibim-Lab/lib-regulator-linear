@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MIC29503WT:MIC29503WT",
+  "name": "MIC29503WT",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MIC29503WT.kicad_sym",
+  "description": "5A low dropout linear regulator, adjustable output, TO-220",
+  "datasheet": "http://ww1.microchip.com/downloads/en/devicedoc/20005685a.pdf",
+  "keywords": "5A LDO linear voltage regulator adjustable positive",
+  "footprint": "Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerEven_Lead3.8mm_Vertical",
+  "extends": "MIC29153WT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MIC29503WT/",
+  "part_path": "parts/MIC29503WT",
+  "symbol_file": "parts/MIC29503WT/MIC29503WT.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.620Z"
+}

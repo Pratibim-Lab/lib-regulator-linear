@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/BD60GA3WEFJ:BD60GA3WEFJ",
+  "name": "BD60GA3WEFJ",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/BD60GA3WEFJ.kicad_sym",
+  "description": "300mA, 6V LDO regulator with OVP & TSP, HTSOP-8",
+  "datasheet": "http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/bdxxga3wefj-e.pdf",
+  "keywords": "linear regulator fixed positive over voltage protection thermal shutdown",
+  "footprint": "Package_SO:HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm",
+  "extends": "BD15GA5WEFJ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/BD60GA3WEFJ/",
+  "part_path": "parts/BD60GA3WEFJ",
+  "symbol_file": "parts/BD60GA3WEFJ/BD60GA3WEFJ.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.646Z"
+}

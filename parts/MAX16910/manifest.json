@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MAX16910:MAX16910",
+  "name": "MAX16910",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MAX16910.kicad_sym",
+  "description": "200mA Automotive Linear LDO Regulator, Fixed Output 5V/3.3V or Adjustable, SO-8/DFN-8",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX16910.pdf",
+  "keywords": "Linear LDO Regulator",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MAX16910/",
+  "part_path": "parts/MAX16910",
+  "symbol_file": "parts/MAX16910/MAX16910.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.795Z"
+}

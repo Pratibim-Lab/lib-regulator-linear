@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MIC5205-3.2YM5:MIC5205-3.2YM5",
+  "name": "MIC5205-3.2YM5",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MIC5205-3.2YM5.kicad_sym",
+  "description": "150mA low dropout linear regulator, fixed 3.2V output, SOT-23-5",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/20005785A.pdf",
+  "keywords": "150mA low-noise LDO linear voltage regulator fixed positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "AP131-15",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MIC5205-3.2YM5/",
+  "part_path": "parts/MIC5205-3.2YM5",
+  "symbol_file": "parts/MIC5205-3.2YM5/MIC5205-3.2YM5.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.638Z"
+}

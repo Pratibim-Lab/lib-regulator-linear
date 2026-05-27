@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/ICL7664:ICL7664",
+  "name": "ICL7664",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/ICL7664.kicad_sym",
+  "description": "50mA Dual Mode -5V/Programmable Negative Voltage Regulator, DIP-8/SO-8/TO-99",
+  "datasheet": "http://pe2bz.philpem.me.uk/pdf%20on%20typenumber/I-L/ICL7664.pdf",
+  "keywords": "Linear Regulator 50mA -5V fixed negative",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/ICL7664/",
+  "part_path": "parts/ICL7664",
+  "symbol_file": "parts/ICL7664/ICL7664.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.720Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TC1186:TC1186",
+  "name": "TC1186",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TC1186.kicad_sym",
+  "description": "150mA Low Dropout Regulator with ERROR output in 5-Pin SOT-23 package",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/21350E.pdf",
+  "keywords": "LDO regulator voltage",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "TC1054",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TC1186/",
+  "part_path": "parts/TC1186",
+  "symbol_file": "parts/TC1186/TC1186.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.255Z"
+}

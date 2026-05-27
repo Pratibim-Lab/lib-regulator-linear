@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TC2014-2.7VxCTTR:TC2014-2.7VxCTTR",
+  "name": "TC2014-2.7VxCTTR",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TC2014-2.7VxCTTR.kicad_sym",
+  "description": "2.7V 50mA CMOS LDO with Shutdown and Vref Bypass, SOT-23-5",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/21662F.pdf",
+  "keywords": "low dropout 2.7V 50mA",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "LP2985-1.8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TC2014-2.7VxCTTR/",
+  "part_path": "parts/TC2014-2.7VxCTTR",
+  "symbol_file": "parts/TC2014-2.7VxCTTR/TC2014-2.7VxCTTR.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.280Z"
+}

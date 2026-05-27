@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT1175-5_SO8_DIP8:LT1175-5_SO8_DIP8",
+  "name": "LT1175-5_SO8_DIP8",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT1175-5_SO8_DIP8.kicad_sym",
+  "description": "500mA Negative Low Dropout Micropower Regulator, fixed output voltage -5V, SO-8/DIP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1175ff.pdf",
+  "keywords": "linear regulator LDO negative fixed",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT1175-5_SO8_DIP8/",
+  "part_path": "parts/LT1175-5_SO8_DIP8",
+  "symbol_file": "parts/LT1175-5_SO8_DIP8/LT1175-5_SO8_DIP8.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.339Z"
+}

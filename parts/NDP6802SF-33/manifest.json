@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/NDP6802SF-33:NDP6802SF-33",
+  "name": "NDP6802SF-33",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/NDP6802SF-33.kicad_sym",
+  "description": "Positive 100mA 85Vin Linear Regulator, Fixed Output 3.3V, SOT-89",
+  "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2401051806_NDP-NDP6802SF-33_C20415512.pdf",
+  "keywords": "Voltage Regulator 100mA Positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "MC78L05_SOT89",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/NDP6802SF-33/",
+  "part_path": "parts/NDP6802SF-33",
+  "symbol_file": "parts/NDP6802SF-33/NDP6802SF-33.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.161Z"
+}

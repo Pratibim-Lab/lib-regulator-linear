@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TCR2EE10:TCR2EE10",
+  "name": "TCR2EE10",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TCR2EE10.kicad_sym",
+  "description": "200mA Low-dropout Voltage Regulator, Vout 1.0V, Vin up to 5.5V, SOT-553",
+  "datasheet": "https://toshiba.semicon-storage.com/info/docget.jsp?did=13794&prodName=TCR2EF45",
+  "keywords": "TOSHIBA LDO voltage regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-553",
+  "extends": "TCR2EE11",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TCR2EE10/",
+  "part_path": "parts/TCR2EE10",
+  "symbol_file": "parts/TCR2EE10/TCR2EE10.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.344Z"
+}

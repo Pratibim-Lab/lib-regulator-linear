@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MAX884:MAX884",
+  "name": "MAX884",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MAX884.kicad_sym",
+  "description": "200mA Linear LDO Regulator, Fixed Output 3.3V or Adjustable with Shutdown Mode, 0C to +70C, DIP-8/SO-8",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX882-MAX884.pdf",
+  "keywords": "Linear LDO Regulator",
+  "footprint": "",
+  "extends": "MAX883",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MAX884/",
+  "part_path": "parts/MAX884",
+  "symbol_file": "parts/MAX884/MAX884.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.861Z"
+}

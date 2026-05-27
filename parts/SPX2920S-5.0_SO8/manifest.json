@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/SPX2920S-5.0_SO8:SPX2920S-5.0_SO8",
+  "name": "SPX2920S-5.0_SO8",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/SPX2920S-5.0_SO8.kicad_sym",
+  "description": "400mA Fixed/Adjustable 1.2-20V Low Drop-out Voltage Regulator, SO-8",
+  "datasheet": "http://www.zlgmcu.com/Sipex/LDO/PDF/spx2920.pdf",
+  "keywords": "LDO Voltage Regulator 400mA 5V Adjustable",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "SPX2920S-3.3_SO8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/SPX2920S-5.0_SO8/",
+  "part_path": "parts/SPX2920S-5.0_SO8",
+  "symbol_file": "parts/SPX2920S-5.0_SO8/SPX2920S-5.0_SO8.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.186Z"
+}

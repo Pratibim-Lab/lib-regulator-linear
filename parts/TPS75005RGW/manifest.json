@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS75005RGW:TPS75005RGW",
+  "name": "TPS75005RGW",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS75005RGW.kicad_sym",
+  "description": "Integrated MCU Power Solution, Dual Low Drop-Out Regulator 500mA with Supervisor, VQFN20",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps75005.pdf",
+  "keywords": "Dual LDO Regulator Dual Integrated Power SVS Supervisor",
+  "footprint": "Package_DFN_QFN:QFN-20-1EP_5x5mm_P0.65mm_EP3.35x3.35mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS75005RGW/",
+  "part_path": "parts/TPS75005RGW",
+  "symbol_file": "parts/TPS75005RGW/TPS75005RGW.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.064Z"
+}

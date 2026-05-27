@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT3080xQ:LT3080xQ",
+  "name": "LT3080xQ",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT3080xQ.kicad_sym",
+  "description": "Adjustable 1.1A Single Resistor Low Dropout Regulator, TO-263",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3080fc.pdf",
+  "keywords": "linear analog linear-technology",
+  "footprint": "Package_TO_SOT_SMD:TO-263-5_TabPin3",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT3080xQ/",
+  "part_path": "parts/LT3080xQ",
+  "symbol_file": "parts/LT3080xQ/LT3080xQ.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.767Z"
+}

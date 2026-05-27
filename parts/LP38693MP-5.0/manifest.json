@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LP38693MP-5.0:LP38693MP-5.0",
+  "name": "LP38693MP-5.0",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LP38693MP-5.0.kicad_sym",
+  "description": "500-mA Low-Dropout CMOS Linear Regulators Stable With Ceramic Output Capacitors, 5.0V output voltage, Enable Pin, SOT-223",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/lp38693.pdf",
+  "keywords": "LDO Linear Regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-223-5",
+  "extends": "LP38693MP-1.8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LP38693MP-5.0/",
+  "part_path": "parts/LP38693MP-5.0",
+  "symbol_file": "parts/LP38693MP-5.0/LP38693MP-5.0.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.949Z"
+}

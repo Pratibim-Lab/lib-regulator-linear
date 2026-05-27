@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT3033xUDC:LT3033xUDC",
+  "name": "LT3033xUDC",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT3033xUDC.kicad_sym",
+  "description": "3A, Very Low Dropout Linear Regulator with Programmable Current Limit, 0.95V to 10Vin, 0.2V to 9.7Vout, QFN-20",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/LT3033.pdf",
+  "keywords": "linear positive voltage regulator",
+  "footprint": "Package_DFN_QFN:UDC-QFN-20-4EP_3x4mm_P0.5mm_EP0.41x0.25mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT3033xUDC/",
+  "part_path": "parts/LT3033xUDC",
+  "symbol_file": "parts/LT3033xUDC/LT3033xUDC.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.731Z"
+}

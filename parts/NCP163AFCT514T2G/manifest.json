@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/NCP163AFCT514T2G:NCP163AFCT514T2G",
+  "name": "NCP163AFCT514T2G",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/NCP163AFCT514T2G.kicad_sym",
+  "description": "250mA low-noise LDO, 2.2V-5.5V input, 5.14V output, WLCSP-4",
+  "datasheet": "https://www.onsemi.com/pdf/datasheet/ncp163-d.pdf",
+  "keywords": "LDO regulator voltage",
+  "footprint": "Package_CSP:WLCSP-4_0.64x0.64mm_Layout2x2_P0.35mm",
+  "extends": "NCP163AFCS120T2G",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/NCP163AFCT514T2G/",
+  "part_path": "parts/NCP163AFCT514T2G",
+  "symbol_file": "parts/NCP163AFCT514T2G/NCP163AFCT514T2G.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.997Z"
+}

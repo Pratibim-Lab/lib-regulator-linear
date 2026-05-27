@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS7A4501KTT:TPS7A4501KTT",
+  "name": "TPS7A4501KTT",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS7A4501KTT.kicad_sym",
+  "description": "Low-Noise Fast-Transient-Response 1.5A LDO Regulator, Adjustable Output, Vin = 20V max, eN = 35 μVrms, TO-263-5 (D2PAK)",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps7a45.pdf",
+  "keywords": "Texas-Instruments Low-Dropout",
+  "footprint": "Package_TO_SOT_SMD:TO-263-5_TabPin3",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS7A4501KTT/",
+  "part_path": "parts/TPS7A4501KTT",
+  "symbol_file": "parts/TPS7A4501KTT/TPS7A4501KTT.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.665Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LF60_TO252:LF60_TO252",
+  "name": "LF60_TO252",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LF60_TO252.kicad_sym",
+  "description": "Low-drop Voltage Regulator, Io up to 500mA, Fixed Vo 6.0V, TO-252 (DPAK)",
+  "datasheet": "http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf",
+  "keywords": "LDO regulator voltage",
+  "footprint": "Package_TO_SOT_SMD:TO-252-2",
+  "extends": "LM78M05_TO252",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LF60_TO252/",
+  "part_path": "parts/LF60_TO252",
+  "symbol_file": "parts/LF60_TO252/LF60_TO252.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.347Z"
+}

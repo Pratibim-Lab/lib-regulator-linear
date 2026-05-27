@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MC7924:MC7924",
+  "name": "MC7924",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MC7924.kicad_sym",
+  "description": "Negative 1A 40V Linear Regulator, Fixed Output -24V, TO-220/TO-263",
+  "datasheet": "http://www.onsemi.com/pub/Collateral/MC7900-D.PDF",
+  "keywords": "Voltage Regulator 1.5A Negative",
+  "footprint": "",
+  "extends": "L7905",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MC7924/",
+  "part_path": "parts/MC7924",
+  "symbol_file": "parts/MC7924/MC7924.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.061Z"
+}

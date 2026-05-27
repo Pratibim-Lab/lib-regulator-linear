@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT3014xDD:LT3014xDD",
+  "name": "LT3014xDD",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT3014xDD.kicad_sym",
+  "description": "20mA output, 3V..80Vin, High voltage low-dropout regulator, DFN-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3014fd.pdf",
+  "keywords": "analog analog-devices linear linear-technology linear LDO",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm",
+  "extends": "LT3010",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT3014xDD/",
+  "part_path": "parts/LT3014xDD",
+  "symbol_file": "parts/LT3014xDD/LT3014xDD.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.599Z"
+}

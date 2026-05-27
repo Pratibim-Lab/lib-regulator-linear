@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT1585-3.45:LT1585-3.45",
+  "name": "LT1585-3.45",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT1585-3.45.kicad_sym",
+  "description": "Positive 4.6A 35V Low Dropout Fast Response Linear Regulator, Fixed Output 3.45V, TO-220/TO-263",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/158457a.pdf",
+  "keywords": "Voltage Regulator 4.6A Positive Fixed",
+  "footprint": "",
+  "extends": "LT1585-3.3",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT1585-3.45/",
+  "part_path": "parts/LT1585-3.45",
+  "symbol_file": "parts/LT1585-3.45/LT1585-3.45.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.413Z"
+}

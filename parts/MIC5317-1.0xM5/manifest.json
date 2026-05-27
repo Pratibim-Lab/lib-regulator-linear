@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MIC5317-1.0xM5:MIC5317-1.0xM5",
+  "name": "MIC5317-1.0xM5",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MIC5317-1.0xM5.kicad_sym",
+  "description": "150mA Low-dropout Voltage Regulator, Vout 1.0V, Vin up to 6V, SOT23-5",
+  "datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/MIC5317-High-Performance-Single-150mA-LDO-DS20006195B.pdf",
+  "keywords": "LDO voltage regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "AP2204K-1.5",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MIC5317-1.0xM5/",
+  "part_path": "parts/MIC5317-1.0xM5",
+  "symbol_file": "parts/MIC5317-1.0xM5/MIC5317-1.0xM5.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.693Z"
+}

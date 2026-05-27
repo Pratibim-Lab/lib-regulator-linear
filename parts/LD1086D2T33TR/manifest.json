@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LD1086D2T33TR:LD1086D2T33TR",
+  "name": "LD1086D2T33TR",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LD1086D2T33TR.kicad_sym",
+  "description": "Positive, 1.5A 30V, Linear Regulator, Fixed Output 3.3V, TO-263",
+  "datasheet": "https://www.st.com/resource/en/datasheet/ld1086.pdf",
+  "keywords": "Linear Regulator 1.5A Fixed Output",
+  "footprint": "Package_TO_SOT_SMD:TO-263-2",
+  "extends": "LD1086D2TTR",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LD1086D2T33TR/",
+  "part_path": "parts/LD1086D2T33TR",
+  "symbol_file": "parts/LD1086D2T33TR/LD1086D2T33TR.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.969Z"
+}

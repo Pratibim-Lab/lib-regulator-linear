@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/BD70FC0WFP:BD70FC0WFP",
+  "name": "BD70FC0WFP",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/BD70FC0WFP.kicad_sym",
+  "description": "1A, 7.0V LDO regulator with OVP & TSP, with enable, TO-252",
+  "datasheet": "https://fscdn.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/bdxxfc0wefj-e.pdf",
+  "keywords": "linear regulator fixed positive over voltage protection thermal shutdown",
+  "footprint": "Package_TO_SOT_SMD:TO-252-4",
+  "extends": "BD30FC0WFP",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/BD70FC0WFP/",
+  "part_path": "parts/BD70FC0WFP",
+  "symbol_file": "parts/BD70FC0WFP/BD70FC0WFP.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.652Z"
+}

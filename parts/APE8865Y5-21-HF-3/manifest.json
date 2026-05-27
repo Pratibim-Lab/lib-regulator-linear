@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/APE8865Y5-21-HF-3:APE8865Y5-21-HF-3",
+  "name": "APE8865Y5-21-HF-3",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/APE8865Y5-21-HF-3.kicad_sym",
+  "description": "300mA Low Dropout Voltage Regulator, Fixed Output 2.1V, SOT-23-5",
+  "datasheet": "http://www.tme.eu/fr/Document/ced3461ed31ea70a3c416fb648e0cde7/APE8865-3.pdf",
+  "keywords": "300mA LDO Regulator Fixed Positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "APE8865Y5-12-HF-3",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/APE8865Y5-21-HF-3/",
+  "part_path": "parts/APE8865Y5-21-HF-3",
+  "symbol_file": "parts/APE8865Y5-21-HF-3/APE8865Y5-21-HF-3.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.433Z"
+}

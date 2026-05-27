@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TLV75101PDSQ:TLV75101PDSQ",
+  "name": "TLV75101PDSQ",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TLV75101PDSQ.kicad_sym",
+  "description": "Dual 500-mA Voltage regulator, +1.5V to +6.0V input, +0.55V to +5.5V adjustable output, 30dB@1MHz PSRR, WSON-10",
+  "datasheet": "https://www.ti.com/lit/gpn/tlv751",
+  "keywords": "TLV751 Dual LDO Low-Dropout Regulator Adj Positive",
+  "footprint": "Package_DFN_QFN:Texas_DSQ0010A_WSON-10-1EP_2x2mm_P0.4mm_EP0.9x1.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TLV75101PDSQ/",
+  "part_path": "parts/TLV75101PDSQ",
+  "symbol_file": "parts/TLV75101PDSQ/TLV75101PDSQ.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.694Z"
+}

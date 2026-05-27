@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LDK130-18_SOT23_SOT353:LDK130-18_SOT23_SOT353",
+  "name": "LDK130-18_SOT23_SOT353",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LDK130-18_SOT23_SOT353.kicad_sym",
+  "description": "300mA low dropout linear regulator, low quiescent current very, low noise, shutdown pin, 1.8V fixed positive output, SOT-23-5/SOT-353-5/SC-70-5",
+  "datasheet": "http://www.st.com/content/ccc/resource/technical/document/datasheet/29/10/f7/87/2f/66/47/f4/DM00076097.pdf/files/DM00076097.pdf/jcr:content/translations/en.DM00076097.pdf",
+  "keywords": "linear regulator ldo fixed positive low noise low quienscent current",
+  "footprint": "",
+  "extends": "LDK130-08_SOT23_SOT353",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LDK130-18_SOT23_SOT353/",
+  "part_path": "parts/LDK130-18_SOT23_SOT353",
+  "symbol_file": "parts/LDK130-18_SOT23_SOT353/LDK130-18_SOT23_SOT353.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.200Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LP2988-3.8_WSON8:LP2988-3.8_WSON8",
+  "name": "LP2988-3.8_WSON8",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LP2988-3.8_WSON8.kicad_sym",
+  "description": "200mA Linear LDO Regulator, Low Noise, MicroPower, Fixed Output 3.8V, WSON-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lp2987.pdf",
+  "keywords": "Linear LDO Regulator 200mA 5V",
+  "footprint": "Package_SON:WSON-8-1EP_4x4mm_P0.8mm_EP2.2x3mm",
+  "extends": "LP2988-5.0_WSON8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LP2988-3.8_WSON8/",
+  "part_path": "parts/LP2988-3.8_WSON8",
+  "symbol_file": "parts/LP2988-3.8_WSON8/LP2988-3.8_WSON8.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.919Z"
+}

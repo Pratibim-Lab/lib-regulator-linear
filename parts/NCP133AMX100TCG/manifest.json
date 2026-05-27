@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/NCP133AMX100TCG:NCP133AMX100TCG",
+  "name": "NCP133AMX100TCG",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/NCP133AMX100TCG.kicad_sym",
+  "description": "500  mA  VLDO  equipped  with  NMOS  pass transistor  and  a  separate  bias  supply  voltage",
+  "datasheet": "http://www.onsemi.com/pub/Collateral/NCP133-D.PDF",
+  "keywords": "Single Output LDO",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/NCP133AMX100TCG/",
+  "part_path": "parts/NCP133AMX100TCG",
+  "symbol_file": "parts/NCP133AMX100TCG/NCP133AMX100TCG.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.939Z"
+}

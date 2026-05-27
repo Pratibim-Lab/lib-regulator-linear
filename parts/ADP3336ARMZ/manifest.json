@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/ADP3336ARMZ:ADP3336ARMZ",
+  "name": "ADP3336ARMZ",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/ADP3336ARMZ.kicad_sym",
+  "description": "High Accuracy Ultralow IQ, 500mA anyCAP Adjustable Low Dropout Regulator, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP3336.pdf",
+  "keywords": "linear regulator ldo adjustable positive",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/ADP3336ARMZ/",
+  "part_path": "parts/ADP3336ARMZ",
+  "symbol_file": "parts/ADP3336ARMZ/ADP3336ARMZ.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:18.315Z"
+}

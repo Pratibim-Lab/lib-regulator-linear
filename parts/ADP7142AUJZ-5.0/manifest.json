@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/ADP7142AUJZ-5.0:ADP7142AUJZ-5.0",
+  "name": "ADP7142AUJZ-5.0",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/ADP7142AUJZ-5.0.kicad_sym",
+  "description": "200mA, Low Noise, CMOS Low Dropout Regulator, Positive, 5.0V Fixed Output, TSOT-23-5",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7142.pdf",
+  "keywords": "linear regulator ldo fixed positive",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-5",
+  "extends": "ADP7142AUJZ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/ADP7142AUJZ-5.0/",
+  "part_path": "parts/ADP7142AUJZ-5.0",
+  "symbol_file": "parts/ADP7142AUJZ-5.0/ADP7142AUJZ-5.0.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:18.344Z"
+}

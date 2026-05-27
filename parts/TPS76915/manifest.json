@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS76915:TPS76915",
+  "name": "TPS76915",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS76915.kicad_sym",
+  "description": "Ultra Low Power 100mA Low Drop Out Regulator 1.5V, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps769.pdf",
+  "keywords": "Ultra Low Power Fixed LDO 100mA",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "TPS76912",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS76915/",
+  "part_path": "parts/TPS76915",
+  "symbol_file": "parts/TPS76915/TPS76915.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.104Z"
+}

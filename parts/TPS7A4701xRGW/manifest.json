@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS7A4701xRGW:TPS7A4701xRGW",
+  "name": "TPS7A4701xRGW",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS7A4701xRGW.kicad_sym",
+  "description": "1A, Low-Noise Low-Dropout Voltage Regulator, 3-35V Input, Adjustable 1.4-34V Output, VQFN-20",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps7a47.pdf",
+  "keywords": "linear regulator ldo voltage noise",
+  "footprint": "Package_DFN_QFN:Texas_RGW0020A_VQFN-20-1EP_5x5mm_P0.65mm_EP3.15x3.15mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS7A4701xRGW/",
+  "part_path": "parts/TPS7A4701xRGW",
+  "symbol_file": "parts/TPS7A4701xRGW/TPS7A4701xRGW.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.673Z"
+}

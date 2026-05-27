@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LP2950-5.0_TO92:LP2950-5.0_TO92",
+  "name": "LP2950-5.0_TO92",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LP2950-5.0_TO92.kicad_sym",
+  "description": "Micropower Voltage Regulators with Shutdown, 100mA, Fixed Output 5.0V, TO-92",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lp2951.pdf",
+  "keywords": "Micropower Voltage Regulator 100mA Positive",
+  "footprint": "Package_TO_SOT_THT:TO-92_Inline",
+  "extends": "MC78L05_TO92",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LP2950-5.0_TO92/",
+  "part_path": "parts/LP2950-5.0_TO92",
+  "symbol_file": "parts/LP2950-5.0_TO92/LP2950-5.0_TO92.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.851Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/L78L15_TO92:L78L15_TO92",
+  "name": "L78L15_TO92",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/L78L15_TO92.kicad_sym",
+  "description": "Positive 100mA 30V Linear Regulator, Fixed Output 15V, TO-92",
+  "datasheet": "http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf",
+  "keywords": "Voltage Regulator 100mA Positive",
+  "footprint": "Package_TO_SOT_THT:TO-92_Inline",
+  "extends": "MC78L05_TO92",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/L78L15_TO92/",
+  "part_path": "parts/L78L15_TO92",
+  "symbol_file": "parts/L78L15_TO92/L78L15_TO92.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.867Z"
+}

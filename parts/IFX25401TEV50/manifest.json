@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/IFX25401TEV50:IFX25401TEV50",
+  "name": "IFX25401TEV50",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/IFX25401TEV50.kicad_sym",
+  "description": "Fixed 5V LDO Linear Voltage Regulator (TO-252-4)",
+  "datasheet": "https://www.infineon.com/dgdl/Infineon-IFX25401-DS-v01_02-en.pdf?fileId=db3a304320d39d590120f62a690569f7",
+  "keywords": "fixed ldo positive voltage regulator",
+  "footprint": "Package_TO_SOT_SMD:TO-252-4",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/IFX25401TEV50/",
+  "part_path": "parts/IFX25401TEV50",
+  "symbol_file": "parts/IFX25401TEV50/IFX25401TEV50.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.733Z"
+}

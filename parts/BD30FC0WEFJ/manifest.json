@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/BD30FC0WEFJ:BD30FC0WEFJ",
+  "name": "BD30FC0WEFJ",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/BD30FC0WEFJ.kicad_sym",
+  "description": "1A, 3.0V LDO regulator with OVP & TSP, with enable, HTSOP-J8",
+  "datasheet": "https://fscdn.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/bdxxfc0wefj-e.pdf",
+  "keywords": "linear regulator fixed positive over voltage protection thermal shutdown",
+  "footprint": "Package_SO:HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/BD30FC0WEFJ/",
+  "part_path": "parts/BD30FC0WEFJ",
+  "symbol_file": "parts/BD30FC0WEFJ/BD30FC0WEFJ.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.607Z"
+}

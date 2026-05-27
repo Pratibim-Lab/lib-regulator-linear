@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LM2931-5.0_TO220:LM2931-5.0_TO220",
+  "name": "LM2931-5.0_TO220",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LM2931-5.0_TO220.kicad_sym",
+  "description": "Positive 100 mA 60V Linear Low Dropout Regulator, Fixed Output 5V, TO-220",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/lm2931-n.pdf",
+  "keywords": "Low Dropout Voltage Regulator 100mA Positive",
+  "footprint": "Package_TO_SOT_THT:TO-220-3_Vertical",
+  "extends": "LM7805_TO220",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LM2931-5.0_TO220/",
+  "part_path": "parts/LM2931-5.0_TO220",
+  "symbol_file": "parts/LM2931-5.0_TO220/LM2931-5.0_TO220.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.523Z"
+}

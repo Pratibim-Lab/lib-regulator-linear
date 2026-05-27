@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT3042xMSE:LT3042xMSE",
+  "name": "LT3042xMSE",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT3042xMSE.kicad_sym",
+  "description": "200mA, Adjustable, Ultralow Noise, Ultrahigh PSRR RF Linear Regulator, MSOP-10",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3042fb.pdf",
+  "keywords": "linear voltage regulator low-noise",
+  "footprint": "Package_SO:MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT3042xMSE/",
+  "part_path": "parts/LT3042xMSE",
+  "symbol_file": "parts/LT3042xMSE/LT3042xMSE.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.749Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT3011xMSE:LT3011xMSE",
+  "name": "LT3011xMSE",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT3011xMSE.kicad_sym",
+  "description": "50mA, 3V to 80V Low Dropout Micropower Linear Regulator with PWRGD, MSOP-12",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3011f.pdf",
+  "keywords": "variable regulator",
+  "footprint": "Package_SO:MSOP-12-1EP_3x4.039mm_P0.65mm_EP1.651x2.845mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT3011xMSE/",
+  "part_path": "parts/LT3011xMSE",
+  "symbol_file": "parts/LT3011xMSE/LT3011xMSE.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.596Z"
+}

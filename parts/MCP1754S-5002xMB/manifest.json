@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MCP1754S-5002xMB:MCP1754S-5002xMB",
+  "name": "MCP1754S-5002xMB",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MCP1754S-5002xMB.kicad_sym",
+  "description": "Fixed 150mA Low Dropout Voltage Regulator, Positive, 5V output, SOT-89",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/20002276C.pdf",
+  "keywords": "Regulator LDO",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MCP1754S-5002xMB/",
+  "part_path": "parts/MCP1754S-5002xMB",
+  "symbol_file": "parts/MCP1754S-5002xMB/MCP1754S-5002xMB.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.350Z"
+}

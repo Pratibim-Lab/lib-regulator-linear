@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/L200:L200",
+  "name": "L200",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/L200.kicad_sym",
+  "description": "Adjustable voltage and current regulator, 2A, 36V",
+  "datasheet": "http://www.zen22142.zen.co.uk/Circuits/Power/l200.pdf",
+  "keywords": "2A Regulator Adjustable Positive",
+  "footprint": "Package_TO_SOT_THT:TO-220-5_P3.4x3.8mm_StaggerOdd_Lead7.13mm_TabDown",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/L200/",
+  "part_path": "parts/L200",
+  "symbol_file": "parts/L200/L200.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.780Z"
+}

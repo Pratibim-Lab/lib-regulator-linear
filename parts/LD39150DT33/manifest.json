@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LD39150DT33:LD39150DT33",
+  "name": "LD39150DT33",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LD39150DT33.kicad_sym",
+  "description": "1.5A Ultra Low Dropout regulator, positive, 3.3V fixed output, TO-252",
+  "datasheet": "https://www.st.com/resource/en/datasheet/ld39150.pdf",
+  "keywords": "linear regulator ldo fixed positive",
+  "footprint": "Package_TO_SOT_SMD:TO-252-3_TabPin2",
+  "extends": "LD39150DT18",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LD39150DT33/",
+  "part_path": "parts/LD39150DT33",
+  "symbol_file": "parts/LD39150DT33/LD39150DT33.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.059Z"
+}

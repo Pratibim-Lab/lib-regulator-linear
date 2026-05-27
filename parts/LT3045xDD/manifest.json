@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT3045xDD:LT3045xDD",
+  "name": "LT3045xDD",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT3045xDD.kicad_sym",
+  "description": "500mA, Adjustable, Ultralow Noise, Ultrahigh PSRR Linear Regulator, DFN-10",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3045fa.pdf",
+  "keywords": "linear voltage regulator low-noise",
+  "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT3045xDD/",
+  "part_path": "parts/LT3045xDD",
+  "symbol_file": "parts/LT3045xDD/LT3045xDD.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.751Z"
+}

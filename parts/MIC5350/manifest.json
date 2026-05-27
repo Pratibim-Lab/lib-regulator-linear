@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MIC5350:MIC5350",
+  "name": "MIC5350",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MIC5350.kicad_sym",
+  "description": "dual 300mA/500mA LDO, MLF-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/mic5350.pdf",
+  "keywords": "dual LDO",
+  "footprint": "Package_DFN_QFN:Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.6x1.2mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MIC5350/",
+  "part_path": "parts/MIC5350",
+  "symbol_file": "parts/MIC5350/MIC5350.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.711Z"
+}

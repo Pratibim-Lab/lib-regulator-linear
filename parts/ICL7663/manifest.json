@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/ICL7663:ICL7663",
+  "name": "ICL7663",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/ICL7663.kicad_sym",
+  "description": "50mA 5V/Programmable Voltage Regulator, DIP-8/SO-8/TO-99",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/ICL7663.pdf",
+  "keywords": "Linear Regulator 50mA 5V fixed",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/ICL7663/",
+  "part_path": "parts/ICL7663",
+  "symbol_file": "parts/ICL7663/ICL7663.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.717Z"
+}

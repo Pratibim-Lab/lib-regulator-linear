@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TLV75719PDBV:TLV75719PDBV",
+  "name": "TLV75719PDBV",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TLV75719PDBV.kicad_sym",
+  "description": "1A Low IQ Small Size Low Dropout Voltage Regulator, Fixed Output 1.9V, SOT-23-5",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tlv757p.pdf",
+  "keywords": "LDO Regulator Fixed Positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "TLV70012_SOT23-5",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TLV75719PDBV/",
+  "part_path": "parts/TLV75719PDBV",
+  "symbol_file": "parts/TLV75719PDBV/TLV75719PDBV.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.802Z"
+}

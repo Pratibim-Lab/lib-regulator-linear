@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LM337_TO252:LM337_TO252",
+  "name": "LM337_TO252",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LM337_TO252.kicad_sym",
+  "description": "Negative 1A 35V Adjustable Linear Regulator, TO-252(DPAK)",
+  "datasheet": "http://www.farnell.com/datasheets/1636957.pdf",
+  "keywords": "Adjustable Voltage Regulator 1A Negative",
+  "footprint": "Package_TO_SOT_SMD:TO-252-2",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LM337_TO252/",
+  "part_path": "parts/LM337_TO252",
+  "symbol_file": "parts/LM337_TO252/LM337_TO252.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.627Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MCP1825S:MCP1825S",
+  "name": "MCP1825S",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MCP1825S.kicad_sym",
+  "description": "500mA, Low-Voltage, Low Quiescent Current LDO Regulator, SOT-223, TO-220, TO-263",
+  "datasheet": "http://ww1.microchip.com/downloads/en/devicedoc/22056b.pdf",
+  "keywords": "regulator linear ldo",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MCP1825S/",
+  "part_path": "parts/MCP1825S",
+  "symbol_file": "parts/MCP1825S/MCP1825S.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.537Z"
+}

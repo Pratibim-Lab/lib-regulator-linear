@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/NCP718xSN500:NCP718xSN500",
+  "name": "NCP718xSN500",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/NCP718xSN500.kicad_sym",
+  "description": "300-mA, Wide Input Voltage, Low-IQ LDO, 5.0V, SOT-23",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/NCP718-D.PDF",
+  "keywords": "Single Output LDO Wide Input",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "LP5907MFX-1.2",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/NCP718xSN500/",
+  "part_path": "parts/NCP718xSN500",
+  "symbol_file": "parts/NCP718xSN500/NCP718xSN500.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.094Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/AP2204RA-5.0:AP2204RA-5.0",
+  "name": "AP2204RA-5.0",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/AP2204RA-5.0.kicad_sym",
+  "description": "150mA low dropout linear regulator, wide input voltage range, 5.0V fixed positive output, SOT-89-3 package",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/products_inactive_data/AP2204.pdf",
+  "keywords": "linear regulator ldo fixed positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "AP2204RA-3.3",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/AP2204RA-5.0/",
+  "part_path": "parts/AP2204RA-5.0",
+  "symbol_file": "parts/AP2204RA-5.0/AP2204RA-5.0.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:18.625Z"
+}

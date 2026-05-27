@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS7A90:TPS7A90",
+  "name": "TPS7A90",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS7A90.kicad_sym",
+  "description": "0.5A, High-Accuracy, Low-Noise LDO Voltage Regulator, Texas S-PDSO-N10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps7a90.pdf",
+  "keywords": "LDO voltage regulator",
+  "footprint": "Package_DFN_QFN:Texas_S-PDSO-N10_EP1.2x2mm",
+  "extends": "TPS7A91",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS7A90/",
+  "part_path": "parts/TPS7A90",
+  "symbol_file": "parts/TPS7A90/TPS7A90.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.687Z"
+}

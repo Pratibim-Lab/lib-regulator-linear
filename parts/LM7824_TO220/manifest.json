@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LM7824_TO220:LM7824_TO220",
+  "name": "LM7824_TO220",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LM7824_TO220.kicad_sym",
+  "description": "Positive 1A 35V Linear Regulator, Fixed Output 24V, TO-220",
+  "datasheet": "https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF",
+  "keywords": "Voltage Regulator 1A Positive",
+  "footprint": "Package_TO_SOT_THT:TO-220-3_Vertical",
+  "extends": "LM7805_TO220",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LM7824_TO220/",
+  "part_path": "parts/LM7824_TO220",
+  "symbol_file": "parts/LM7824_TO220/LM7824_TO220.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.732Z"
+}

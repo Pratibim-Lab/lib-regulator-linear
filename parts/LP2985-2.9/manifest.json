@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LP2985-2.9:LP2985-2.9",
+  "name": "LP2985-2.9",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LP2985-2.9.kicad_sym",
+  "description": "150mA 16V Low-noise Low-dropout Regulator With Shutdown, 2.9V output voltage, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lp2985.pdf",
+  "keywords": "LDO regulator linear  SOT-23-5",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "LP2985-1.8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LP2985-2.9/",
+  "part_path": "parts/LP2985-2.9",
+  "symbol_file": "parts/LP2985-2.9/LP2985-2.9.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.891Z"
+}

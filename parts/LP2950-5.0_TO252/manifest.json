@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LP2950-5.0_TO252:LP2950-5.0_TO252",
+  "name": "LP2950-5.0_TO252",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LP2950-5.0_TO252.kicad_sym",
+  "description": "Positive 100mA 30V Linear Micropower Voltage Regulator, Fixed Output 5.0V, TO-252",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lp2950.pdf",
+  "keywords": "Micropower Voltage Regulator 100mA Positive",
+  "footprint": "Package_TO_SOT_SMD:TO-252-2",
+  "extends": "LM78M05_TO252",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LP2950-5.0_TO252/",
+  "part_path": "parts/LP2950-5.0_TO252",
+  "symbol_file": "parts/LP2950-5.0_TO252/LP2950-5.0_TO252.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.845Z"
+}

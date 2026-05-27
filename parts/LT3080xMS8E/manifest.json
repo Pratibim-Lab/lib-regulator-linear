@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT3080xMS8E:LT3080xMS8E",
+  "name": "LT3080xMS8E",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT3080xMS8E.kicad_sym",
+  "description": "Adjustable 1.1A Single Resistor Low Dropout Regulator, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3080fc.pdf",
+  "keywords": "linear analog linear-technology",
+  "footprint": "Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT3080xMS8E/",
+  "part_path": "parts/LT3080xMS8E",
+  "symbol_file": "parts/LT3080xMS8E/LT3080xMS8E.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.765Z"
+}

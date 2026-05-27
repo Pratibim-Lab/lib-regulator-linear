@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TLV1117-25:TLV1117-25",
+  "name": "TLV1117-25",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TLV1117-25.kicad_sym",
+  "description": "800mA Low-Dropout Linear Regulator, 2.5V fixed output, TO-220/TO-252/TO-263/SOT-223",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tlv1117.pdf",
+  "keywords": "linear regulator ldo fixed positive",
+  "footprint": "",
+  "extends": "LT1117-2.85",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TLV1117-25/",
+  "part_path": "parts/TLV1117-25",
+  "symbol_file": "parts/TLV1117-25/TLV1117-25.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.405Z"
+}

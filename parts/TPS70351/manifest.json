@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS70351:TPS70351",
+  "name": "TPS70351",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS70351.kicad_sym",
+  "description": "Dual-Output, Low Dropout Voltage Regulators With Integrated SVS For Split Voltage Systems, Sequenced Outputs, 3.3V 1A/1.8V 2A, HTSSOP-24",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps703.pdf",
+  "keywords": "dual ldo regulator",
+  "footprint": "Package_SO:HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.4x7.8mm_Mask2.4x4.68mm_ThermalVias",
+  "extends": "TPS70302",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS70351/",
+  "part_path": "parts/TPS70351",
+  "symbol_file": "parts/TPS70351/TPS70351.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.907Z"
+}

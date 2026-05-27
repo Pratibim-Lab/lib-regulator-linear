@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MAX603:MAX603",
+  "name": "MAX603",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MAX603.kicad_sym",
+  "description": "500mA Linear LDO Regulator, Fixed Output 5V, DIP-8/SO-8",
+  "datasheet": "http://datasheets.maximintegrated.com/en/ds/MAX603-MAX604.pdf",
+  "keywords": "Linear LDO Regulator 500mA 5V fixed",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MAX603/",
+  "part_path": "parts/MAX603",
+  "symbol_file": "parts/MAX603/MAX603.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.817Z"
+}

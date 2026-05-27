@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/ME6211C50M5:ME6211C50M5",
+  "name": "ME6211C50M5",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/ME6211C50M5.kicad_sym",
+  "description": "500mA low dropout linear regulator, shutdown pin, 6.5V max input voltage, 5.0V fixed positive output, SOT-23-5",
+  "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_MICRONE-Nanjing-Micro-One-Elec-ME6211C33R5G_C235316.pdf",
+  "keywords": "linear regulator ldo fixed positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "ME6211C33M5",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/ME6211C50M5/",
+  "part_path": "parts/ME6211C50M5",
+  "symbol_file": "parts/ME6211C50M5/ME6211C50M5.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.590Z"
+}

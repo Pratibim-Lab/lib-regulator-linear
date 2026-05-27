@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MAX38908xTD:MAX38908xTD",
+  "name": "MAX38908xTD",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MAX38908xTD.kicad_sym",
+  "description": "4A, High-Performance LDO Linear Regulator, 0.9V-5.5Vin, 0.6V-5Vout, 2.7V-20Vbias, TDFN-14",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX38907-MAX38908.pdf",
+  "keywords": "Linear LDO Regulator Maxim Analog Devices",
+  "footprint": "Package_DFN_QFN:TDFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MAX38908xTD/",
+  "part_path": "parts/MAX38908xTD",
+  "symbol_file": "parts/MAX38908xTD/MAX38908xTD.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.797Z"
+}

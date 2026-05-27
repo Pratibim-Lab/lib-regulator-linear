@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/AP7384-70Y:AP7384-70Y",
+  "name": "AP7384-70Y",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/AP7384-70Y.kicad_sym",
+  "description": "50mA Low Dropout Voltage Regulator, Fixed Output 7V, Wide Input Voltage Range 40V, SOT-89-3",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/AP7384.pdf",
+  "keywords": "50mA LDO Regulator Fixed Positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "APE8865NL-12-HF-3",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/AP7384-70Y/",
+  "part_path": "parts/AP7384-70Y",
+  "symbol_file": "parts/AP7384-70Y/AP7384-70Y.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:18.799Z"
+}

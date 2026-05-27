@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MCP1727-1202xSN:MCP1727-1202xSN",
+  "name": "MCP1727-1202xSN",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MCP1727-1202xSN.kicad_sym",
+  "description": "1.5A, Low Voltage, Low Quiescent Current LDO Regulator, 2.3 - 6V Input, Fixed 1.2V Output, 330mV Dropout, SOIC-8",
+  "datasheet": "https://ww1.microchip.com/downloads/aemtest/APID/ProductDocuments/DataSheets/MCP1727-1.5A-Low-Voltage-Low-Quiescent-Current-LDO-Regulator-20001999D.pdf",
+  "keywords": "Low Voltage Low Quiescent Current Fixed LDO Regulator",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "MCP1727-0802xSN",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MCP1727-1202xSN/",
+  "part_path": "parts/MCP1727-1202xSN",
+  "symbol_file": "parts/MCP1727-1202xSN/MCP1727-1202xSN.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.302Z"
+}

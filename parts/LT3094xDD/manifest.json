@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT3094xDD:LT3094xDD",
+  "name": "LT3094xDD",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT3094xDD.kicad_sym",
+  "description": "–20V, 500mA, Ultralow Noise, Ultrahigh PSRR Negative Linear Regulator, -1.8..-20Vin, 0..-19.5Vout, DFN-12",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/LT3094.pdf",
+  "keywords": "linear negative voltage regulator low-noise",
+  "footprint": "Package_DFN_QFN:DFN-12-1EP_3x3mm_P0.45mm_EP1.65x2.38mm_ThermalVias",
+  "extends": "LT3093xMSE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT3094xDD/",
+  "part_path": "parts/LT3094xDD",
+  "symbol_file": "parts/LT3094xDD/LT3094xDD.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.780Z"
+}

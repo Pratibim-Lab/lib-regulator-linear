@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/XC6210B332MR:XC6210B332MR",
+  "name": "XC6210B332MR",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/XC6210B332MR.kicad_sym",
+  "description": "700mA, Low Drop-out Voltage Regulator, Fixed Output 3.3V, SOT-23-5",
+  "datasheet": "https://www.torexsemi.com/file/xc6210/XC6210.pdf",
+  "keywords": "LDO Voltage Regulator 700mA",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "XC6220B331MR",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/XC6210B332MR/",
+  "part_path": "parts/XC6210B332MR",
+  "symbol_file": "parts/XC6210B332MR/XC6210B332MR.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.778Z"
+}

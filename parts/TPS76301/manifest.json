@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS76301:TPS76301",
+  "name": "TPS76301",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS76301.kicad_sym",
+  "description": "Low power 150mA LDO variable output voltage, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps763.pdf",
+  "keywords": "linear low dropout Regulator adjustable",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS76301/",
+  "part_path": "parts/TPS76301",
+  "symbol_file": "parts/TPS76301/TPS76301.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.067Z"
+}

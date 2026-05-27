@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/AP7381-28SA-7:AP7381-28SA-7",
+  "name": "AP7381-28SA-7",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/AP7381-28SA-7.kicad_sym",
+  "description": "150mA Low Dropout Voltage Regulator, Fixed Output 2.8V, Wide Input Voltage Range 40V, SOT-23",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/AP7381.pdf",
+  "keywords": "Diodes ldo nrnd",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/AP7381-28SA-7/",
+  "part_path": "parts/AP7381-28SA-7",
+  "symbol_file": "parts/AP7381-28SA-7/AP7381-28SA-7.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:18.724Z"
+}

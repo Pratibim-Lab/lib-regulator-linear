@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TC1262-28:TC1262-28",
+  "name": "TC1262-28",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TC1262-28.kicad_sym",
+  "description": "500mA Low Dropout CMOS Voltage Regulator, Fixed Output 2.8V, TO-220/SOT-223/TO-263",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/21373C.pdf",
+  "keywords": "Voltage Regulator 2.8V 500mA Positive CMOS LDO Microchip",
+  "footprint": "",
+  "extends": "TC1262-33",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TC1262-28/",
+  "part_path": "parts/TC1262-28",
+  "symbol_file": "parts/TC1262-28/TC1262-28.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.261Z"
+}

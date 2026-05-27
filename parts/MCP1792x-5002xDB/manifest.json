@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MCP1792x-5002xDB:MCP1792x-5002xDB",
+  "name": "MCP1792x-5002xDB",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MCP1792x-5002xDB.kicad_sym",
+  "description": "Low Quiescent Current LDO Regulator, 4.5-55V input, 5.0V, 100mA, SOT-223",
+  "datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP1792-Family-Data-Sheet-DS20006229D.pdf",
+  "keywords": "REGULATOR LDO",
+  "footprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+  "extends": "MCP1703Ax-330xxDB",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MCP1792x-5002xDB/",
+  "part_path": "parts/MCP1792x-5002xDB",
+  "symbol_file": "parts/MCP1792x-5002xDB/MCP1792x-5002xDB.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.380Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MC78LC33NTR:MC78LC33NTR",
+  "name": "MC78LC33NTR",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MC78LC33NTR.kicad_sym",
+  "description": "Positive 80mA 12V Linear Regulator, Fixed Output 3.3V, SOT23-5",
+  "datasheet": "https://www.onsemi.com/pdf/datasheet/mc78lc00-d.pdf",
+  "keywords": "Voltage Regulator 80mA Positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MC78LC18NTR",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MC78LC33NTR/",
+  "part_path": "parts/MC78LC33NTR",
+  "symbol_file": "parts/MC78LC33NTR/MC78LC33NTR.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.976Z"
+}

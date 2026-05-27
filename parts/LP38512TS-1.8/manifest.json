@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LP38512TS-1.8:LP38512TS-1.8",
+  "name": "LP38512TS-1.8",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LP38512TS-1.8.kicad_sym",
+  "description": "1.5A Fast-Transient Response Low-Dropout Linear Voltage Regulator with Error Flag, 1.8V Output, TO-263",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lp38512.pdf",
+  "keywords": "LDO Linear Regulator DDPAK D2PAK",
+  "footprint": "Package_TO_SOT_SMD:TO-263-5_TabPin6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LP38512TS-1.8/",
+  "part_path": "parts/LP38512TS-1.8",
+  "symbol_file": "parts/LP38512TS-1.8/LP38512TS-1.8.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.929Z"
+}

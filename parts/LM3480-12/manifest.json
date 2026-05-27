@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LM3480-12:LM3480-12",
+  "name": "LM3480-12",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LM3480-12.kicad_sym",
+  "description": "100mA, Quasi Low Dropout Voltage Regulator, 12V positive fixed output, SOT-23 package",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm3480.pdf",
+  "keywords": "ldo linear fixed positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "LM3480-3.3",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LM3480-12/",
+  "part_path": "parts/LM3480-12",
+  "symbol_file": "parts/LM3480-12/LM3480-12.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.679Z"
+}

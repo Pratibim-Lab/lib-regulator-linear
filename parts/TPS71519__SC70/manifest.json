@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS71519__SC70:TPS71519__SC70",
+  "name": "TPS71519__SC70",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS71519__SC70.kicad_sym",
+  "description": "Low-drop Voltage Regulator, Io up to 50mA, Fixed Vo 1.9V, Ignd 3.2uA , SC70.",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps715.pdf",
+  "keywords": "LDO regulator voltage",
+  "footprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+  "extends": "TPS71518__SC70",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS71519__SC70/",
+  "part_path": "parts/TPS71519__SC70",
+  "symbol_file": "parts/TPS71519__SC70/TPS71519__SC70.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.941Z"
+}

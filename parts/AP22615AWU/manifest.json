@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/AP22615AWU:AP22615AWU",
+  "name": "AP22615AWU",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/AP22615AWU.kicad_sym",
+  "description": "Current limited power switch, single channel, 3.0V to 5.5V, 3A, SOT-23-6",
+  "datasheet": "https://www.diodes.com/datasheet/download/AP22815_615.pdf",
+  "keywords": "Limit USB active-high load-switch",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/AP22615AWU/",
+  "part_path": "parts/AP22615AWU",
+  "symbol_file": "parts/AP22615AWU/AP22615AWU.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:18.637Z"
+}

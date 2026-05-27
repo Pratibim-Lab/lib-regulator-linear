@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MAX38912ATA+:MAX38912ATA+",
+  "name": "MAX38912ATA+",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MAX38912ATA+.kicad_sym",
+  "description": "11μVRMS Low-Noise, 500mA LDO Linear Regulator with Low-Power Mode, 1.7V-5.5Vin, 0.8V-5Vout, TDFN-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX38911-MAX38912.pdf",
+  "keywords": "Linear LDO Regulator Maxim Analog Devices",
+  "footprint": "Package_DFN_QFN:TDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MAX38912ATA+/",
+  "part_path": "parts/MAX38912ATA+",
+  "symbol_file": "parts/MAX38912ATA+/MAX38912ATA+.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.806Z"
+}

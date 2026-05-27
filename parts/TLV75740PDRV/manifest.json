@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TLV75740PDRV:TLV75740PDRV",
+  "name": "TLV75740PDRV",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TLV75740PDRV.kicad_sym",
+  "description": "1A Low IQ Small Size Low Dropout Voltage Regulator, Fixed Output 4.0V, WSON6",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tlv757p.pdf",
+  "keywords": "LDO Regulator Fixed Positive",
+  "footprint": "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm",
+  "extends": "TLV75509PDRV",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TLV75740PDRV/",
+  "part_path": "parts/TLV75740PDRV",
+  "symbol_file": "parts/TLV75740PDRV/TLV75740PDRV.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.832Z"
+}

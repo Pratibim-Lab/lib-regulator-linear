@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT3080xDD:LT3080xDD",
+  "name": "LT3080xDD",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT3080xDD.kicad_sym",
+  "description": "Adjustable 1.1A Single Resistor Low Dropout Regulator, DFN-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3080fc.pdf",
+  "keywords": "linear analog linear-technology",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT3080xDD/",
+  "part_path": "parts/LT3080xDD",
+  "symbol_file": "parts/LT3080xDD/LT3080xDD.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.756Z"
+}

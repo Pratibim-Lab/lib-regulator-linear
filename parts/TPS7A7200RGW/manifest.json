@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS7A7200RGW:TPS7A7200RGW",
+  "name": "TPS7A7200RGW",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS7A7200RGW.kicad_sym",
+  "description": "2A, Low-Dropout Voltage Regulator, 1.5-6.5V Input, Adjustable 0.9-5V Output, VQFN-20",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps7a7200.pdf",
+  "keywords": "linear regulator ldo voltage",
+  "footprint": "Package_DFN_QFN:Texas_RGW0020A_VQFN-20-1EP_5x5mm_P0.65mm_EP3.15x3.15mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS7A7200RGW/",
+  "part_path": "parts/TPS7A7200RGW",
+  "symbol_file": "parts/TPS7A7200RGW/TPS7A7200RGW.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.681Z"
+}

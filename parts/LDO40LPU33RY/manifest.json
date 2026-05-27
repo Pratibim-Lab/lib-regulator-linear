@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LDO40LPU33RY:LDO40LPU33RY",
+  "name": "LDO40LPU33RY",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LDO40LPU33RY.kicad_sym",
+  "description": "400mA, 3.5V-38V input, fixed positive 3.3V output, LDO regulator with enable, DFN-6",
+  "datasheet": "https://www.st.com/resource/en/datasheet/ldo40l.pdf",
+  "keywords": "low-dropout-regulator",
+  "footprint": "Package_DFN_QFN:DFN-6-1EP_3x3mm_P0.95mm_EP1.7x2.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LDO40LPU33RY/",
+  "part_path": "parts/LDO40LPU33RY",
+  "symbol_file": "parts/LDO40LPU33RY/LDO40LPU33RY.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.254Z"
+}

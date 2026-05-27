@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/ADP7182AUJZ:ADP7182AUJZ",
+  "name": "ADP7182AUJZ",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/ADP7182AUJZ.kicad_sym",
+  "description": "200mA, Low Noise, CMOS Low Dropout Regulator, Negative, Adjustable, TSOT-23-5",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7182.pdf",
+  "keywords": "linear regulator ldo adjustable negative",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/ADP7182AUJZ/",
+  "part_path": "parts/ADP7182AUJZ",
+  "symbol_file": "parts/ADP7182AUJZ/ADP7182AUJZ.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:18.355Z"
+}

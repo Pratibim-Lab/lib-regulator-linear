@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/AZ1117CH2-5.0:AZ1117CH2-5.0",
+  "name": "AZ1117CH2-5.0",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/AZ1117CH2-5.0.kicad_sym",
+  "description": "1A Fixed 5.0V LDO Linear Regulator, 15V Max Input, SOT-223",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/AZ1117C.pdf",
+  "keywords": "low-dropout positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+  "extends": "L7805",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/AZ1117CH2-5.0/",
+  "part_path": "parts/AZ1117CH2-5.0",
+  "symbol_file": "parts/AZ1117CH2-5.0/AZ1117CH2-5.0.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.567Z"
+}

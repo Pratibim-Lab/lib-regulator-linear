@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT3091xT7:LT3091xT7",
+  "name": "LT3091xT7",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT3091xT7.kicad_sym",
+  "description": "–36V, 1.5A Negative Linear Adjustable Regulator with Programmable Current Limit, TO-220-7",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3091fa.pdf",
+  "keywords": "LDO low noise",
+  "footprint": "Package_TO_SOT_THT:TO-220-7_P2.54x3.7mm_StaggerOdd_Lead3.8mm_Vertical",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT3091xT7/",
+  "part_path": "parts/LT3091xT7",
+  "symbol_file": "parts/LT3091xT7/LT3091xT7.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.773Z"
+}

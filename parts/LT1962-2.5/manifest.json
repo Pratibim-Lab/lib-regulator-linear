@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT1962-2.5:LT1962-2.5",
+  "name": "LT1962-2.5",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT1962-2.5.kicad_sym",
+  "description": "2.5V, 300mA, Low Noise, Micropower LDO Regulator, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1962fb.pdf",
+  "keywords": "LDO 2.5V",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "LT1962-5",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT1962-2.5/",
+  "part_path": "parts/LT1962-2.5",
+  "symbol_file": "parts/LT1962-2.5/LT1962-2.5.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.521Z"
+}

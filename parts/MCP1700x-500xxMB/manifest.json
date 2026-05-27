@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MCP1700x-500xxMB:MCP1700x-500xxMB",
+  "name": "MCP1700x-500xxMB",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MCP1700x-500xxMB.kicad_sym",
+  "description": "250mA Low Quiscent Current LDO, 5.0V output, SOT-89",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf",
+  "keywords": "regulator linear ldo",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "MCP1703Ax-330xxMB",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MCP1700x-500xxMB/",
+  "part_path": "parts/MCP1700x-500xxMB",
+  "symbol_file": "parts/MCP1700x-500xxMB/MCP1700x-500xxMB.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.190Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MCP1792x-3302xCB:MCP1792x-3302xCB",
+  "name": "MCP1792x-3302xCB",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MCP1792x-3302xCB.kicad_sym",
+  "description": "100mA Low Quiscent Current LDO, 4.5-55V input, 3.3V output, SOT-23",
+  "datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP1792-Family-Data-Sheet-DS20006229D.pdf",
+  "keywords": "regulator linear ldo",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "MCP1700x-300xxTT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MCP1792x-3302xCB/",
+  "part_path": "parts/MCP1792x-3302xCB",
+  "symbol_file": "parts/MCP1792x-3302xCB/MCP1792x-3302xCB.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.362Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LP2980-ADJ:LP2980-ADJ",
+  "name": "LP2980-ADJ",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LP2980-ADJ.kicad_sym",
+  "description": "50mA 15V Low-noise Low-dropout Regulator, 1.23-15V adjustable output voltage, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lp2980-adj.pdf",
+  "keywords": "LDO Voltage Regulator 50mA Positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LP2980-ADJ/",
+  "part_path": "parts/LP2980-ADJ",
+  "symbol_file": "parts/LP2980-ADJ/LP2980-ADJ.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.883Z"
+}

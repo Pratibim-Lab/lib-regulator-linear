@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT3093xMSE:LT3093xMSE",
+  "name": "LT3093xMSE",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT3093xMSE.kicad_sym",
+  "description": "-200mA, Adjustable, Ultralow Noise, Ultrahigh PSRR RF Negative Linear Regulator, MSOP-12",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/lt3093.pdf",
+  "keywords": "linear negative voltage regulator low-noise",
+  "footprint": "Package_SO:MSOP-12-1EP_3x4.039mm_P0.65mm_EP1.651x2.845mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT3093xMSE/",
+  "part_path": "parts/LT3093xMSE",
+  "symbol_file": "parts/LT3093xMSE/LT3093xMSE.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.776Z"
+}

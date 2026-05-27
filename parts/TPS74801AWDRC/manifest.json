@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS74801AWDRC:TPS74801AWDRC",
+  "name": "TPS74801AWDRC",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS74801AWDRC.kicad_sym",
+  "description": "Texas Instruments 1.5A, Low-Dropout Linear Regulator With Programmable Soft-Start, 0.8-6.0Vin, 2.7-6.0Vbias, 0.8-3.6Vout",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps748a.pdf",
+  "keywords": "regulator LDO positive adjustable",
+  "footprint": "Package_SON:VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS74801AWDRC/",
+  "part_path": "parts/TPS74801AWDRC",
+  "symbol_file": "parts/TPS74801AWDRC/TPS74801AWDRC.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.057Z"
+}

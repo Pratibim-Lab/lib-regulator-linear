@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS77733_SO8:TPS77733_SO8",
+  "name": "TPS77733_SO8",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS77733_SO8.kicad_sym",
+  "description": "750mA Fast-Transient Low Dropout Voltage Regulator, Fixed Output 3.3V, SO-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps777.pdf",
+  "keywords": "750mA LDO Regulator Fixed Positive",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "TPS77715_SO8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS77733_SO8/",
+  "part_path": "parts/TPS77733_SO8",
+  "symbol_file": "parts/TPS77733_SO8/TPS77733_SO8.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.447Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TLV75801PDRV:TLV75801PDRV",
+  "name": "TLV75801PDRV",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TLV75801PDRV.kicad_sym",
+  "description": "500mA Low-Dropout Linear Regulator, Adjustable Output, WSON-6",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tlv758p.pdf",
+  "keywords": "ldo positive",
+  "footprint": "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TLV75801PDRV/",
+  "part_path": "parts/TLV75801PDRV",
+  "symbol_file": "parts/TLV75801PDRV/TLV75801PDRV.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.837Z"
+}

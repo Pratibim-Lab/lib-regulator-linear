@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT1033C:LT1033C",
+  "name": "LT1033C",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT1033C.kicad_sym",
+  "description": "Negative 3A 35V Adjustable Linear Regulator, TO-220",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1033fd.pdf",
+  "keywords": "Adjustable Voltage Regulator 3A Negative",
+  "footprint": "Package_TO_SOT_THT:TO-220-3_Vertical",
+  "extends": "LM337_TO220",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT1033C/",
+  "part_path": "parts/LT1033C",
+  "symbol_file": "parts/LT1033C/LT1033C.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.180Z"
+}

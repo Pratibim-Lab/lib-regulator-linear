@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/AP130-35Y:AP130-35Y",
+  "name": "AP130-35Y",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/AP130-35Y.kicad_sym",
+  "description": "0.3A Low Dropout regulator, positive, 3.5V fixed output, SOT-89",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/AP130.pdf",
+  "keywords": "linear regulator ldo fixed positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "APE8865NL-12-HF-3",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/AP130-35Y/",
+  "part_path": "parts/AP130-35Y",
+  "symbol_file": "parts/AP130-35Y/AP130-35Y.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:18.431Z"
+}

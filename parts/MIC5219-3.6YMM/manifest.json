@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MIC5219-3.6YMM:MIC5219-3.6YMM",
+  "name": "MIC5219-3.6YMM",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MIC5219-3.6YMM.kicad_sym",
+  "description": "500mA low dropout linear regulator, fixed 3.6V output, MSOP-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf",
+  "keywords": "500mA ultra-low-noise LDO linear voltage regulator fixed positive",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "MIC5219-2.5YMM",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MIC5219-3.6YMM/",
+  "part_path": "parts/MIC5219-3.6YMM",
+  "symbol_file": "parts/MIC5219-3.6YMM/MIC5219-3.6YMM.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.683Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TLV75801PDBV:TLV75801PDBV",
+  "name": "TLV75801PDBV",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TLV75801PDBV.kicad_sym",
+  "description": "500mA Low-Dropout Linear Regulator, Adjustable Output, SOT-23-5",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tlv758p.pdf",
+  "keywords": "ldo positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TLV75801PDBV/",
+  "part_path": "parts/TLV75801PDBV",
+  "symbol_file": "parts/TLV75801PDBV/TLV75801PDBV.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.835Z"
+}

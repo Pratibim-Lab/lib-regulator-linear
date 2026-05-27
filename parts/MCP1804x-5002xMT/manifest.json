@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MCP1804x-5002xMT:MCP1804x-5002xMT",
+  "name": "MCP1804x-5002xMT",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MCP1804x-5002xMT.kicad_sym",
+  "description": "150mA, 28V LDO Regulator With Shutdown, 5.0V Fixed Output, SOT-89-5",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/20002200D.pdf",
+  "keywords": "linear regulator ldo fixed positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-5",
+  "extends": "MCP1804x-1802xMT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MCP1804x-5002xMT/",
+  "part_path": "parts/MCP1804x-5002xMT",
+  "symbol_file": "parts/MCP1804x-5002xMT/MCP1804x-5002xMT.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.513Z"
+}

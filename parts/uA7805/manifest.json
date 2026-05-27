@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/uA7805:uA7805",
+  "name": "uA7805",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/uA7805.kicad_sym",
+  "description": "Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ua78.pdf",
+  "keywords": "Voltage Regulator 1A Positive",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/uA7805/",
+  "part_path": "parts/uA7805",
+  "symbol_file": "parts/uA7805/uA7805.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.709Z"
+}

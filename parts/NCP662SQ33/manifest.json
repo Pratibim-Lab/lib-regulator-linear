@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/NCP662SQ33:NCP662SQ33",
+  "name": "NCP662SQ33",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/NCP662SQ33.kicad_sym",
+  "description": "100-mA, 12V Max. Input, Ultralow-IQ LDO, 3.3V, SC-82AB",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/NCP662-D.PDF",
+  "keywords": "LDO regulator voltage",
+  "footprint": "Package_TO_SOT_SMD:SC-82AB",
+  "extends": "NCP662SQ15",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/NCP662SQ33/",
+  "part_path": "parts/NCP662SQ33",
+  "symbol_file": "parts/NCP662SQ33/NCP662SQ33.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.052Z"
+}

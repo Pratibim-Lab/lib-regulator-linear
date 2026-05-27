@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS73018DBV:TPS73018DBV",
+  "name": "TPS73018DBV",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS73018DBV.kicad_sym",
+  "description": "Low Noise, High PSRR, 200mA Low Drop 1.8V Regulator, SOT-23-5",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps730.pdf",
+  "keywords": "Fixed LDO 200mA",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "TPS73625DBV",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS73018DBV/",
+  "part_path": "parts/TPS73018DBV",
+  "symbol_file": "parts/TPS73018DBV/TPS73018DBV.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.981Z"
+}

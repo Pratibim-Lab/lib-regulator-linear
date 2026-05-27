@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/MCP1700x-180xxTT:MCP1700x-180xxTT",
+  "name": "MCP1700x-180xxTT",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/MCP1700x-180xxTT.kicad_sym",
+  "description": "250mA Low Quiscent Current LDO, 1.8V output, SOT-23",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf",
+  "keywords": "regulator linear ldo",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "MCP1700x-300xxTT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/MCP1700x-180xxTT/",
+  "part_path": "parts/MCP1700x-180xxTT",
+  "symbol_file": "parts/MCP1700x-180xxTT/MCP1700x-180xxTT.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:22.128Z"
+}

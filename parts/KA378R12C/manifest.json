@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/KA378R12C:KA378R12C",
+  "name": "KA378R12C",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/KA378R12C.kicad_sym",
+  "description": "Positive 3A 35V Linear Regulator with Disable Pin, LDO, Fixed Output 12V, TO-220F-4L",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/KA378R12CTU-D.pdf",
+  "keywords": "Voltage Regulator 3A Positive LDO Disable Pin",
+  "footprint": "Package_TO_SOT_THT:TO-220-4_Vertical",
+  "extends": "KA378R05",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/KA378R12C/",
+  "part_path": "parts/KA378R12C",
+  "symbol_file": "parts/KA378R12C/KA378R12C.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:19.754Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT3014xS5:LT3014xS5",
+  "name": "LT3014xS5",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT3014xS5.kicad_sym",
+  "description": "20mA output, 3V..80Vin, High voltage low-dropout regulator, SOT-23-5",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3014fd.pdf",
+  "keywords": "analog analog-devices linear linear-technology linear LDO",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "LT1761-SD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT3014xS5/",
+  "part_path": "parts/LT3014xS5",
+  "symbol_file": "parts/LT3014xS5/LT3014xS5.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.603Z"
+}

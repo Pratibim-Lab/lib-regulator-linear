@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/UA78M10QDCYRQ1:UA78M10QDCYRQ1",
+  "name": "UA78M10QDCYRQ1",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/UA78M10QDCYRQ1.kicad_sym",
+  "description": "Positive 500mA 28V Linear Regulator, Fixed Output 10V, SOT-223",
+  "datasheet": "https://www.ti.com/lit/gpn/UA78M-Q1",
+  "keywords": "Automotive Q100 0.5A",
+  "footprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+  "extends": "UA78M05QDCYRQ1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/UA78M10QDCYRQ1/",
+  "part_path": "parts/UA78M10QDCYRQ1",
+  "symbol_file": "parts/UA78M10QDCYRQ1/UA78M10QDCYRQ1.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.764Z"
+}

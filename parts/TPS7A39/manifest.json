@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS7A39:TPS7A39",
+  "name": "TPS7A39",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS7A39.kicad_sym",
+  "description": "Dual, 150-mA, ±3.3V to ±33V Input, +1.2V to +30V and -30V to 0V Output, Wide VIN Positive and Negative LDO Voltage Regulator, 3x3mm WSON-10 package",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps7a39.pdf",
+  "keywords": "Dual LDO Regulator Adj Positive Negative",
+  "footprint": "Package_SON:Texas_S-PVSON-N10_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS7A39/",
+  "part_path": "parts/TPS7A39",
+  "symbol_file": "parts/TPS7A39/TPS7A39.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.658Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/AP2204K-ADJ:AP2204K-ADJ",
+  "name": "AP2204K-ADJ",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/AP2204K-ADJ.kicad_sym",
+  "description": "150mA low dropout adjustable linear regulator, wide input voltage range, SOT-23-5 package",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/products_inactive_data/AP2204.pdf",
+  "keywords": "linear regulator ldo adjustable positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/AP2204K-ADJ/",
+  "part_path": "parts/AP2204K-ADJ",
+  "symbol_file": "parts/AP2204K-ADJ/AP2204K-ADJ.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:18.590Z"
+}

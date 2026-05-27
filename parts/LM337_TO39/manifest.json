@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LM337_TO39:LM337_TO39",
+  "name": "LM337_TO39",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LM337_TO39.kicad_sym",
+  "description": "Negative 500mA 35V Adjustable Linear Regulator, TO-39",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm337-n.pdf",
+  "keywords": "Adjustable Voltage Regulator 500mA Negative",
+  "footprint": "Package_TO_SOT_THT:TO-39-3",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LM337_TO39/",
+  "part_path": "parts/LM337_TO39",
+  "symbol_file": "parts/LM337_TO39/LM337_TO39.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.657Z"
+}

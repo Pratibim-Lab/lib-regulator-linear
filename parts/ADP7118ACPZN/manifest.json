@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/ADP7118ACPZN:ADP7118ACPZN",
+  "name": "ADP7118ACPZN",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/ADP7118ACPZN.kicad_sym",
+  "description": "200mA, Low Noise, CMOS Low Dropout Regulator, Positive, Adjustable, LFCSP-6",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7142.pdf",
+  "keywords": "linear regulator ldo adjustable positive",
+  "footprint": "Package_CSP:LFCSP-6-1EP_2x2mm_P0.65mm_EP1x1.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/ADP7118ACPZN/",
+  "part_path": "parts/ADP7118ACPZN",
+  "symbol_file": "parts/ADP7118ACPZN/ADP7118ACPZN.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:18.320Z"
+}

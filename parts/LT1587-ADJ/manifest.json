@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LT1587-ADJ:LT1587-ADJ",
+  "name": "LT1587-ADJ",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LT1587-ADJ.kicad_sym",
+  "description": "Positive 3A 35V Low Dropout Fast Response Linear Regulator, Adjustable Output, TO-220/TO-263",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/158457a.pdf",
+  "keywords": "Voltage Regulator 3A Positive Adjustable",
+  "footprint": "",
+  "extends": "LT1585-ADJ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LT1587-ADJ/",
+  "part_path": "parts/LT1587-ADJ",
+  "symbol_file": "parts/LT1587-ADJ/LT1587-ADJ.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:21.440Z"
+}

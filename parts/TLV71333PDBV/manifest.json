@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TLV71333PDBV:TLV71333PDBV",
+  "name": "TLV71333PDBV",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TLV71333PDBV.kicad_sym",
+  "description": "150mA Low Dropout Voltage Regulator, Fixed Output 3.3V, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tlv713p.pdf",
+  "keywords": "LDO Regulator Fixed Positive",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "TLV70012_SOT23-5",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TLV71333PDBV/",
+  "part_path": "parts/TLV71333PDBV",
+  "symbol_file": "parts/TLV71333PDBV/TLV71333PDBV.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:23.627Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/TPS73601DBV:TPS73601DBV",
+  "name": "TPS73601DBV",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/TPS73601DBV.kicad_sym",
+  "description": "Cap free NMOS 400mA Low Drop Adjustable Out Regulator, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps736.pdf",
+  "keywords": "Cap free Adjustable LDO 400mA",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/TPS73601DBV/",
+  "part_path": "parts/TPS73601DBV",
+  "symbol_file": "parts/TPS73601DBV/TPS73601DBV.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:24.019Z"
+}

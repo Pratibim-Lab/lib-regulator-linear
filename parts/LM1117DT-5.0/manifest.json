@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Linear/LM1117DT-5.0:LM1117DT-5.0",
+  "name": "LM1117DT-5.0",
+  "library": "Regulator_Linear",
+  "file": "Regulator_Linear.kicad_symdir/LM1117DT-5.0.kicad_sym",
+  "description": "800mA Low-Dropout Linear Regulator, 5.0V fixed output, TO-252",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm1117.pdf",
+  "keywords": "linear regulator ldo fixed positive",
+  "footprint": "Package_TO_SOT_SMD:TO-252-3_TabPin2",
+  "extends": "AP1117-15",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-linear@master/parts/LM1117DT-5.0/",
+  "part_path": "parts/LM1117DT-5.0",
+  "symbol_file": "parts/LM1117DT-5.0/LM1117DT-5.0.kicad_sym",
+  "source_library": "Regulator_Linear.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:20.452Z"
+}
